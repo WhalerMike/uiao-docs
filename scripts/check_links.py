@@ -13,16 +13,27 @@ def find_markdown_files(root_dir):
     return [p for p in list(root.rglob("*.md")) + list(root.rglob("*.qmd")) if not (p.parent == root and p.name in ("index.md", "index-scuba.md", "SUMMARY.md"))]
 
 
+def strip_code_blocks(content):
+    """Remove fenced code blocks and inline code from content before link checking."""
+    # Remove triple-backtick (and triple-tilde) fenced code blocks
+    content = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
+    content = re.sub(r'~~~.*?~~~', '', content, flags=re.DOTALL)
+    # Remove inline code spans
+    content = re.sub(r'`[^`\n]+`', '', content)
+    return content
+
+
 def check_links(files):
     """Check for broken internal links in markdown files."""
     errors = []
     link_pattern = re.compile(r'\[([^\]]*)\]\(([^)]+)\)')
 
     for filepath in files:
-        content = filepath.read_text(encoding='utf-8', errors='ignore')
+        raw_content = filepath.read_text(encoding='utf-8', errors='ignore')
+        content = strip_code_blocks(raw_content)
         for match in link_pattern.finditer(content):
             link_text, link_target = match.groups()
-            if link_target.startswith(('http://', 'https://', '#', 'mailto:')):
+            if link_target.startswith(('http://', 'https://', '#', 'mailto:', 'computer://')):
                 continue
             base = link_target.split('#')[0]
             if base:

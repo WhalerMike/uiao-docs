@@ -1,0 +1,15 @@
+{
+  "name": "uiao-docs",
+  "version": "1.0.0",
+  "description": "UIAO Modernization Atlas documentation and governance",
+  "type": "module",
+  "scripts": {
+    "governance-check": "node tools/uiao-governance-cli.js"
+  },
+  "keywords": ["uiao", "fedramp", "governance"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
