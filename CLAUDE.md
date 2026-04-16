@@ -1,60 +1,69 @@
 # CLAUDE.md — UIAO-Docs Repository
-> Canonical control surface for Claude Code integration with the UIAO-Docs documentation repository.
-> This file is the root-level configuration. All subagents, skills, rules, and commands
-> are defined under `.claude/`.
+
+> Documentation site and publications. Canon-consumer.
+
 ## Repository Identity
+
 - **Name:** uiao-docs
-- **Purpose:** Documentation layer — derived articles, guides, playbooks, and published materials for the UIAO modernization ecosystem. All content traces provenance to canonical artifacts in `uiao-core`.
-- **Canon Authority:** This repository is a DERIVED consumer of `uiao-core` canon. It does NOT define canonical governance artifacts.
-- **Cloud Boundary:** GCC-Moderate (Microsoft 365 SaaS only). No GCC-High, DoD, or Azure services unless explicitly noted.
-- **Exception:** Amazon Connect Contact Center operates in Commercial Cloud.
+- **Purpose:** Human-facing documentation — Quarto/MkDocs sources, briefings, diagrams, appendices, customer-documents, publications.
+- **Role:** Consumer of `uiao-core` canon. Never mutates canon.
+- **Build:** Quarto (`_quarto.yml`) + MkDocs (`mkdocs.yml`). Site output under `site/`.
+
+## Relationship to uiao-core
+
+- Schemas, KSI rules, control library, and dashboard JSON flow **from** `uiao-core` **into** this repo via `canon-sync-receive.yml`.
+- This repo owns presentation (qmd files, narrative, diagrams, exports to docx/pptx/epub).
+- A change that requires updating canon belongs in `uiao-core`, not here. Raise a PR there and wait for the sync.
+
 ## Operating Principles
-1. **Provenance Required:** Every document must trace to a canonical source in `uiao-core`. Orphan documents are CI-blocking.
-2. **No-Hallucination Protocol:** Available on demand. When invoked, only user-provided text is source of truth.
-3. **Version Isolation:** No references to any previous version in any context prior to the current version.
-4. **Article Series Standards:** Articles follow the canonical structure: story, comic, technical section, disclaimer, author bio. Authored under pseudonym Michal Doroszewski.
-5. **Copy Section Mandate:** Every appendix retains its Copy section. No exceptions.
-6. **Drift Prevention:** Cross-repo drift between `uiao-docs` and `uiao-core` is detected and flagged via CI.
+
+1. **No-Hallucination Protocol** — cite canonical sources only. Never invent control IDs, KSI IDs, or adapter names.
+2. **Provenance First** — every qmd with canonical content carries frontmatter pointing back to its canon source.
+3. **Version Isolation** — one version of canon at a time. No back-references to prior versions.
+
 ## Directory Convention
+
 ```
 uiao-docs/
-├── CLAUDE.md # This file — root config
-├── .claude/ # Claude Code control center
-│ ├── rules/ # Governance rules (always-on)
-│ ├── agents/ # Subagent persona definitions
-│ ├── skills/ # Reusable skill modules
-│ └── commands/ # Slash-command definitions
-├── .github/workflows/ # CI enforcement pipelines
-├── tools/ # Python enforcement scripts
-├── schemas/ # JSON schemas (dashboard, metadata)
-├── articles/ # Published article series
-├── guides/ # Implementation and operations guides
-├── appendices/ # Documentation appendices (with Copy sections)
-└── dashboard/exports/ # Dashboard metric exports
+├── CLAUDE.md
+├── .claude/
+├── _quarto.yml
+├── mkdocs.yml
+├── docs/                      # Primary content (qmd + md)
+├── canon/                     # Mirror of uiao-core/canon (synced)
+├── appendices/                # Appendix A–E
+├── narrative/                 # Long-form narrative
+├── publications/              # Executive briefs, mission statements
+├── exports/                   # Generated docx/pptx/epub
+├── visuals/                   # PlantUML + PNG
+├── diagrams/                  # PlantUML sources
+├── generation-inputs/         # YAML inputs for generators
+└── tools/                     # Documentation generators
 ```
+
 ## Commit Convention
-All commits touching documentation artifacts must follow:
+
 ```
-[UIAO-DOCS] <verb>: <artifact-id> — <short description>
+[UIAO-DOCS] <verb>: <artifact> — <description>
 ```
-Verbs: `CREATE`, `UPDATE`, `FIX`, `PUBLISH`, `MIGRATE`, `DEPRECATE`
+
+Verbs: `ADD`, `UPDATE`, `FIX`, `PUBLISH`, `ARCHIVE`.
+
 ## CI Gates
-Every PR must pass:
-- `metadata-validator` — Schema compliance for all YAML/JSON frontmatter
-- `drift-scan` — Detect cross-repo drift against `uiao-core` canon
-- `appendix-sync` — Verify appendix index integrity and Copy sections
-- `dashboard-export` — Validate dashboard schema and export readiness
+
+- `build-docs` — Quarto/MkDocs build succeeds.
+- `canon-validation` — synced canon files match upstream hashes.
+- `metadata-validator` — frontmatter conforms.
+- `link-check` — no broken internal links.
+- `validate-uiao-frontmatter` — UIAO-specific frontmatter schema.
+- `appendix-sync` — appendix index in sync with uiao-core.
+
 ## Agent Activation
+
 | Command | Agent | Purpose |
 |---|---|---|
-| `/validate` | `docs-governance-agent` | Run metadata validation suite |
-| `/drift` | `docs-drift-detector` | Scan for cross-repo canon drift |
-| `/appendix` | `docs-appendix-manager` | Index and sync documentation appendices |
-| `/dashboard` | `docs-dashboard-exporter` | Export documentation health dashboard |
-| `/publish` | `docs-publisher` | Validate and prepare articles for publication |
-## Cross-Repository Sync
-This repository maintains a sync relationship with `uiao-core`:
-- Canon changes in `uiao-core` trigger drift detection here
-- Provenance references must point to current `uiao-core` artifacts
-- Scheduled weekly sync checks verify alignment
-> **SSOT Reference:** See /ssot/UIAO-SSOT.md
+| `/build` | `docs-builder` | Local Quarto+MkDocs build |
+| `/publish` | `publication-packager` | Assemble docx/pptx/epub exports |
+| `/diagram` | `diagram-renderer` | Render PlantUML/Mermaid to PNG |
+| `/canon-sync` | `canon-syncer` | Pull latest canon from uiao-core |
+| `/linkcheck` | `link-auditor` | Validate internal and external links |

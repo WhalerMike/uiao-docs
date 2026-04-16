@@ -86,11 +86,7 @@ references/**
 **/*.quarto_ipynb
 
 # Ignore Claude artifacts
-.claude/
 
-.claude/
-.claude/
-.claude/
 
 # Phase D Stage 1 additions
 _site/
