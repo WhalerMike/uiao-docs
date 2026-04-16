@@ -19,7 +19,7 @@ Phase C (qmd conversion, Master Document, image pipeline, aggregate_prompts) is 
 The doctrinal source doc is sitting untracked in `uiao-core/canon/`. Until it's committed, the schema validates `mission-class` values against a document that isn't in canon — which makes the governance story weak.
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git add canon/UIAO_003_Adapter_Segmentation_Overview_v1.0.md
 git commit -m "[UIAO-CORE] CREATE: canon/UIAO_003 — adapter segmentation overview v1.0"
 git push
@@ -88,7 +88,7 @@ Proves the dispatcher + receiver plumbing actually works end-to-end.
 ### A3.1 — Trigger with trivial canon edit
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 # Add a whitespace-only change to adapter-registry.yaml (end-of-file newline)
 Add-Content -Path 'canon/adapter-registry.yaml' -Value ''
 git add canon/adapter-registry.yaml

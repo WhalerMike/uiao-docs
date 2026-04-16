@@ -1,7 +1,7 @@
  Volume in drive C has no label.
  Volume Serial Number is 205D-C010
 
- Directory of C:\Users\whale\uiao-docs
+ Directory of C:\Users\whale\src\uiao-docs
 
 04/09/2026  11:45 AM    <DIR>          .
 04/08/2026  08:43 PM    <DIR>          ..
@@ -46,7 +46,7 @@
 04/03/2026  02:59 PM    <DIR>          _site
               24 File(s)      1,019,793 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude
+ Directory of C:\Users\whale\src\uiao-docs\.claude
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -56,7 +56,7 @@
 04/09/2026  11:43 AM    <DIR>          skills
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\agents
+ Directory of C:\Users\whale\src\uiao-docs\.claude\agents
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -67,7 +67,7 @@
 04/09/2026  11:43 AM             2,172 docs-publisher.md
                5 File(s)         10,665 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\commands
+ Directory of C:\Users\whale\src\uiao-docs\.claude\commands
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -77,7 +77,7 @@
 04/09/2026  11:43 AM             1,402 validate-metadata.md
                4 File(s)          4,773 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\rules
+ Directory of C:\Users\whale\src\uiao-docs\.claude\rules
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -87,7 +87,7 @@
 04/09/2026  11:43 AM             1,667 no-hallucination.md
                4 File(s)          6,969 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\skills
+ Directory of C:\Users\whale\src\uiao-docs\.claude\skills
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -97,7 +97,7 @@
 04/09/2026  11:43 AM             2,344 metadata-validation.md
                4 File(s)          8,888 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git
+ Directory of C:\Users\whale\src\uiao-docs\.git
 
 04/09/2026  11:45 AM    <DIR>          ..
 04/09/2026  11:44 AM               107 COMMIT_EDITMSG
@@ -115,7 +115,7 @@
 04/03/2026  11:55 AM    <DIR>          refs
                8 File(s)         80,513 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\hooks
+ Directory of C:\Users\whale\src\uiao-docs\.git\hooks
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM               478 applypatch-msg.sample
@@ -134,20 +134,20 @@
 04/03/2026  11:55 AM             3,650 update.sample
               14 File(s)         25,827 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\info
+ Directory of C:\Users\whale\src\uiao-docs\.git\info
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM               240 exclude
                1 File(s)            240 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs
 
 04/03/2026  11:55 AM    <DIR>          .
 04/09/2026  11:43 AM             8,933 HEAD
 04/03/2026  11:55 AM    <DIR>          refs
                1 File(s)          8,933 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -155,7 +155,7 @@
 04/03/2026  11:55 AM    <DIR>          remotes
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\heads
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\heads
 
 04/07/2026  02:59 PM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -164,14 +164,14 @@
 04/07/2026  01:04 PM             1,967 WhalerMike-patch-1
                3 File(s)         10,323 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/07/2026  02:59 PM    <DIR>          origin
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes\origin
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes\origin
 
 04/07/2026  02:59 PM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -183,28 +183,28 @@
 04/06/2026  10:11 AM               358 WhalerMike-patch-1
                4 File(s)          9,336 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes\origin\copilot
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes\origin\copilot
 
 04/07/2026  12:06 PM    <DIR>          .
 04/07/2026  02:59 PM    <DIR>          ..
 04/07/2026  12:06 PM               185 execute-all-when-possible
                1 File(s)            185 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes\origin\dependabot
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes\origin\dependabot
 
 04/06/2026  10:10 AM    <DIR>          .
 04/07/2026  02:59 PM    <DIR>          ..
 04/06/2026  10:10 AM    <DIR>          github_actions
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes\origin\dependabot\github_actions
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes\origin\dependabot\github_actions
 
 04/06/2026  10:10 AM    <DIR>          .
 04/06/2026  10:10 AM    <DIR>          ..
 04/06/2026  10:10 AM    <DIR>          actions
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes\origin\dependabot\github_actions\actions
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes\origin\dependabot\github_actions\actions
 
 04/06/2026  10:10 AM    <DIR>          .
 04/06/2026  10:10 AM    <DIR>          ..
@@ -215,7 +215,7 @@
 04/09/2026  08:07 AM               557 upload-pages-artifact-4
                5 File(s)          2,787 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects
 
 04/09/2026  11:43 AM    <DIR>          .
 04/07/2026  03:57 PM    <DIR>          00
@@ -467,7 +467,7 @@
 04/08/2026  10:25 AM    <DIR>          pack
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\00
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\00
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -476,14 +476,14 @@
 04/07/2026  03:57 PM             1,098 f814fdf677498ad79b292866dacf3b1191a691
                3 File(s)          2,214 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\01
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\01
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  06:48 PM             1,195 6a329e0bb8445002f6546f3e102bcbd16c6dd2
                1 File(s)          1,195 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\02
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\02
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -492,7 +492,7 @@
 04/07/2026  12:06 PM               441 b7ae42cbee6e7997b192a1ecbc89ac11aebfda
                3 File(s)          2,351 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\03
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\03
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -500,14 +500,14 @@
 04/07/2026  07:21 PM               765 fdbbf50cfd8b09f856722ef6a83d506cfb17fc
                2 File(s)          5,682 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\04
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\04
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  11:43 AM               107 8323656cec149baf1057eb6edbdbaa5f936e41
                1 File(s)            107 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\05
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\05
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -518,7 +518,7 @@
 04/07/2026  12:26 PM             1,181 e64c5b0e4a87693848fac8ee918d299f440753
                5 File(s)          7,461 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\06
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\06
 
 04/07/2026  04:20 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -528,7 +528,7 @@
 04/07/2026  02:50 PM               606 cc4f37e61b27add99457fa8d482d5844c9203f
                4 File(s)          1,969 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\07
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\07
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -536,7 +536,7 @@
 04/07/2026  07:21 PM             1,090 943c38b0aaa9756bafe26f8eb65a637b7230d7
                2 File(s)          1,696 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\08
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\08
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -545,7 +545,7 @@
 04/07/2026  02:50 PM               924 fdad20c4bbc91c729dcee399658c6690fd39ab
                3 File(s)          2,339 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\09
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\09
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -559,7 +559,7 @@
 04/03/2026  12:52 PM             4,987 fab949fb4fc15cf34cae670e8b7680a3a88eb8
                8 File(s)         11,868 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\0a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\0a
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -570,7 +570,7 @@
 04/07/2026  01:03 PM               335 fb5cb1db07851ab4ff52dd6f6fb4fbf499b8c8
                5 File(s)          6,310 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\0b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\0b
 
 04/07/2026  01:46 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -578,7 +578,7 @@
 04/07/2026  01:46 PM               712 edcdf0e54b9194a56ae3a868914f362b07dfe2
                2 File(s)            950 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\0c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\0c
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -588,7 +588,7 @@
 04/07/2026  07:21 PM             2,552 e5f08cd758c4e9a22065f911b7279e4f6f5f79
                4 File(s)          4,595 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\0d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\0d
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -597,14 +597,14 @@
 04/07/2026  06:48 PM                72 c2fe7bf3849f441487321b02df760669bc728a
                3 File(s)          5,008 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\0e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\0e
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM               164 09f8d4d8fc372b1afd41b7c810b5066d05faf4
                1 File(s)            164 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\0f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\0f
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -612,7 +612,7 @@
 04/07/2026  03:57 PM             1,359 c22ba5b13163ccfc529c54d74003a1d1cf9d3e
                2 File(s)          2,337 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\11
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\11
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -621,14 +621,14 @@
 04/08/2026  10:05 AM               664 cae668ece7907ca7534d55d277e4c7141ce3a9
                3 File(s)          2,135 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\12
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\12
 
 04/03/2026  04:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/03/2026  04:03 PM             4,199 8922f1cce4e80657228932d1c683c0b4281f6e
                1 File(s)          4,199 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\13
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\13
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -636,7 +636,7 @@
 04/07/2026  12:26 PM               574 a17361dc1ed5e81abfd53634903589a288cfe0
                2 File(s)          1,238 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\14
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\14
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -644,14 +644,14 @@
 04/07/2026  01:46 PM               904 e361dfa1ad2085d5dbfbeb0c49d2c2194c60fd
                2 File(s)          1,184 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\15
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\15
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  06:28 PM               607 f6c570bc40bb2f2348234f91d374da055dff8e
                1 File(s)            607 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\16
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\16
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -667,7 +667,7 @@
 04/07/2026  06:48 PM             1,200 c41e652b2a882b11e0d0a840b8baa5d25404c2
               10 File(s)         11,929 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\17
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\17
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -675,7 +675,7 @@
 04/09/2026  11:43 AM               118 5d2acb620480f72e12b453c2eed7569dd94877
                2 File(s)            781 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\18
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\18
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -683,7 +683,7 @@
 04/07/2026  12:06 PM               978 896a9f5fa50180e1addee8479dfbc15c7f71a8
                2 File(s)          1,326 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\19
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\19
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -693,7 +693,7 @@
 04/07/2026  04:04 PM               202 e204c56aac9c033287e660c0e767a5246656d9
                4 File(s)          5,779 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\1a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\1a
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -702,14 +702,14 @@
 04/09/2026  08:07 AM               977 ce6d9a0c58ec87287dabf89771a3ff5203a51a
                3 File(s)          2,620 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\1b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\1b
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  07:21 PM               554 3ff03cceefdf485f7d622eccd5029f14c7816f
                1 File(s)            554 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\1c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\1c
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -721,7 +721,7 @@
 04/07/2026  02:50 PM               607 99a9865624d41b5a9400afe922573523043246
                6 File(s)          5,469 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\1d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\1d
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -733,7 +733,7 @@
 04/09/2026  11:43 AM               161 dd1fa78e3f4f64a78aba45d0b9e8e9b28d24dc
                6 File(s)         12,767 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\1e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\1e
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -743,14 +743,14 @@
 04/03/2026  12:50 PM               194 d07051e7c6ff993fb68b2f7dc9a2c5d3d5a4c1
                4 File(s)         25,147 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\1f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\1f
 
 04/03/2026  12:52 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/03/2026  12:52 PM             3,340 ece5c3702b5d052095769504a23bd9f7be6ae1
                1 File(s)          3,340 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\20
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\20
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -760,7 +760,7 @@
 04/07/2026  06:28 PM               851 de6dcb9c3732bae86d3966f56cbfc592947f8a
                4 File(s)          3,812 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\21
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\21
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -769,7 +769,7 @@
 04/07/2026  03:57 PM               855 a862c23e29fec3bc5234199c5d30223f504898
                3 File(s)          4,466 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\22
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\22
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -777,7 +777,7 @@
 04/09/2026  08:07 AM             1,019 d9040bdc6b6d8971d59c98f45cfa2b49b9f338
                2 File(s)          1,258 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\24
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\24
 
 04/07/2026  12:38 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -785,7 +785,7 @@
 04/03/2026  04:03 PM               906 9ccbb7b75501e589657ef951815eac2ee2c58b
                2 File(s)          2,350 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\25
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\25
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -794,7 +794,7 @@
 04/09/2026  11:43 AM                82 f6e64d88bc0c0c609e61581a42f9eb4a760ce6
                3 File(s)          2,253 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\26
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\26
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -803,7 +803,7 @@
 04/07/2026  07:21 PM             1,195 f44723bde5796ffaa2c202decb6a4d5f625e5f
                3 File(s)          5,868 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\27
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\27
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -815,7 +815,7 @@
 04/03/2026  04:03 PM            22,774 f8cf5d6af24a0b926f3dd05f6c8e9c89db0c87
                6 File(s)      6,414,084 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\28
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\28
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -824,7 +824,7 @@
 04/07/2026  01:03 PM               224 febcfbbef694dbba4338a6b4e6a5aba14d86b6
                3 File(s)          1,494 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\29
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\29
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -836,7 +836,7 @@
 04/03/2026  04:03 PM               742 ff60b12c0f9802ff2dbe99c46a4f9a2eca7f39
                6 File(s)          7,290 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\2a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\2a
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -846,7 +846,7 @@
 04/07/2026  01:03 PM               126 a931d94eec17a4851093505626b952043c6686
                4 File(s)          5,962 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\2b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\2b
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -856,7 +856,7 @@
 04/07/2026  12:06 PM               976 e9e419dcb08f7245010bdd7b0e9b251ab5d4f9
                4 File(s)          2,476 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\2c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\2c
 
 04/08/2026  10:15 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -869,7 +869,7 @@
 04/08/2026  10:17 AM             5,193 ebb84193332e2837de0d9a013fc31519bbd261
                7 File(s)         28,851 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\2d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\2d
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -879,7 +879,7 @@
 04/03/2026  04:03 PM             1,058 e0ef965ea2451daadc3a2f8a4c81372e674df4
                4 File(s)          2,559 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\2e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\2e
 
 04/07/2026  04:20 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -889,7 +889,7 @@
 04/07/2026  04:20 PM                55 f6c51b03c2f38737bf2be06f782dd03e705a6a
                4 File(s)      4,322,533 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\2f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\2f
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -899,7 +899,7 @@
 04/09/2026  11:43 AM               230 f970bec2ec02d317a277cc630431a54a6b75aa
                4 File(s)          6,026 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\30
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\30
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -908,7 +908,7 @@
 04/07/2026  03:57 PM               606 e920e8199fc87462e196b1ea64632350f07d33
                3 File(s)          1,877 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\31
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\31
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -918,7 +918,7 @@
 04/07/2026  03:57 PM               606 b0fd7e63218158d1ced8e9f7039702d2d5bcbc
                4 File(s)         32,804 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\32
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\32
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -929,7 +929,7 @@
 04/08/2026  10:05 AM               846 aeca93a2aec7cd871bf547e2ba6b48ec9fe278
                5 File(s)          3,402 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\33
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\33
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -937,7 +937,7 @@
 04/09/2026  11:43 AM               157 8a3392712e157f267de1d710e0fa3e6a13b1c2
                2 File(s)            722 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\34
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\34
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -945,7 +945,7 @@
 04/03/2026  12:52 PM             4,275 f8f96e286676ab787185211de19ae1b7bb4847
                2 File(s)          4,606 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\35
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\35
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -954,7 +954,7 @@
 04/07/2026  01:46 PM               239 d71d3f717a90ecc5636e9895154807e47bfd9d
                3 File(s)          1,115 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\36
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\36
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -964,7 +964,7 @@
 04/07/2026  01:03 PM            12,006 f9552d3eca39867df3ba8787522197229cf1e9
                4 File(s)         17,127 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\37
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\37
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -972,7 +972,7 @@
 04/08/2026  10:05 AM               664 731bcb9827ca024f11c6d1f61a07be7cf84a0b
                2 File(s)            876 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\38
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\38
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -984,7 +984,7 @@
 04/08/2026  10:05 AM             5,086 bdcf5553c9005c3a8a971b0f0f6be0c1360106
                6 File(s)          8,112 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\39
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\39
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -992,7 +992,7 @@
 04/07/2026  07:21 PM               958 d68ed185e4d859989120767945c8fdb5a54b0c
                2 File(s)          1,380 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\3a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\3a
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1000,14 +1000,14 @@
 04/09/2026  11:43 AM             1,136 b94d201bf5666c71183b0d8c04d96b728d0ab3
                2 File(s)          1,988 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\3b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\3b
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM               325 182018b99ef969235d1dade05fbc83cd73e716
                1 File(s)            325 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\3c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\3c
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1016,7 +1016,7 @@
 04/07/2026  07:21 PM               280 55aa6b0f1d4085fbb59fea3941874efc374971
                3 File(s)          1,374 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\3d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\3d
 
 04/07/2026  02:50 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1025,14 +1025,14 @@
 04/07/2026  01:04 PM               574 fbcfe316ca859995d04cee06848381f8a0272b
                3 File(s)          6,734 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\3e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\3e
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM               322 f0ad0700d80c4f0994b9936b31460e7d1675c2
                1 File(s)            322 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\3f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\3f
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1044,14 +1044,14 @@
 04/07/2026  02:50 PM               607 e8da40e13097a6c2805bb4f3a4a96ca678f0ab
                6 File(s)          7,449 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\40
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\40
 
 04/08/2026  10:15 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/08/2026  10:15 AM               853 34cd12880b7e40fe4b71a55044a0179622a93a
                1 File(s)            853 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\41
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\41
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1061,7 +1061,7 @@
 04/07/2026  06:53 PM                68 f7067702ed3b53a1f5f7abbb46c55ee9a373c3
                4 File(s)          5,650 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\42
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\42
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1071,7 +1071,7 @@
 04/07/2026  03:57 PM             4,222 d62105e7442f2dcc63169157d1a1061f1139da
                4 File(s)          9,232 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\43
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\43
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1082,7 +1082,7 @@
 04/07/2026  07:21 PM             1,010 8708d93507758f2c2ab3e2eff07f46f441555b
                5 File(s)          6,528 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\44
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\44
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1093,14 +1093,14 @@
 04/07/2026  02:50 PM               877 c8a7a69e069147cd10e31e92ece7a4f8a3429c
                5 File(s)         11,675 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\45
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\45
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  11:43 AM               188 e9de0cc26d990d490c897ac66c41d8b60eb395
                1 File(s)            188 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\46
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\46
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1112,14 +1112,14 @@
 04/07/2026  12:06 PM               846 d5d18f8199849b8f1790b7a75646a640d599b6
                6 File(s)        111,430 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\47
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\47
 
 04/07/2026  12:26 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:04 PM             4,169 0a280cc0e5ccfb157c6310ae267d9435ad2430
                1 File(s)          4,169 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\48
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\48
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1130,7 +1130,7 @@
 04/07/2026  07:21 PM               930 e027afe1e81b2da75afba7e3ea7b5d6564bc97
                5 File(s)          4,502 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\49
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\49
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1139,7 +1139,7 @@
 04/09/2026  11:43 AM                62 a83b9d24786a5c7c38db5a7855c21ec3ca236e
                3 File(s)          4,260 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\4a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\4a
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1151,14 +1151,14 @@
 04/07/2026  06:48 PM               606 fa69096ad51636626685cf2697e00200516099
                6 File(s)          4,352 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\4b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\4b
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  06:28 PM               607 0d7a7ac17c9c6dedd1c59f9f235ef84655e008
                1 File(s)            607 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\4c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\4c
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1166,7 +1166,7 @@
 04/03/2026  12:52 PM               299 a0a86260c7c39548acb30c0ab9faae24d0de7f
                2 File(s)          1,152 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\4d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\4d
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1174,7 +1174,7 @@
 04/07/2026  03:57 PM             1,939 aa592a16a3f8ab1d56d4c645f111e53f141482
                2 File(s)          2,890 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\4e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\4e
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1182,7 +1182,7 @@
 04/07/2026  07:21 PM             2,394 d1810d83e407e143b0a94bdbce402f3761ddc5
                2 File(s)          3,335 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\4f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\4f
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1190,7 +1190,7 @@
 04/09/2026  11:43 AM             1,101 c1dddb75d50f77975a119d33a50a75e71c54cd
                2 File(s)          1,422 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\50
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\50
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1200,7 +1200,7 @@
 04/07/2026  07:21 PM               664 fb5365271d629ca5b57852021567d7a3fe1e89
                4 File(s)          2,145 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\51
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\51
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1209,7 +1209,7 @@
 04/07/2026  03:57 PM               205 93c464fad677ba0b71c4608cf528749f2f20e7
                3 File(s)          1,272 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\52
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\52
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1219,7 +1219,7 @@
 04/09/2026  11:43 AM             3,183 cf6b57e38e9c2cb627a3c604064ca5ce5e4d20
                4 File(s)          5,752 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\53
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\53
 
 04/08/2026  10:12 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1230,7 +1230,7 @@
 04/07/2026  02:50 PM               604 ca0802d5dbec06f7777af95c43459654abeea1
                5 File(s)         12,369 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\54
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\54
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1242,7 +1242,7 @@
 04/07/2026  02:50 PM               262 8aae8abb4bfef1f0ab1bc143f498717a7e93d5
                6 File(s)          8,335 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\55
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\55
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1250,7 +1250,7 @@
 04/07/2026  07:21 PM             2,025 69195fb5757cdf9a966b6e5bc7cf11ac809d26
                2 File(s)          2,265 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\56
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\56
 
 04/07/2026  04:20 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1259,21 +1259,21 @@
 04/03/2026  04:03 PM               416 fa06f242ef49cbbdc20accc5096ca54338591b
                3 File(s)          8,861 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\57
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\57
 
 04/07/2026  04:17 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  04:17 PM             1,332 dcfac425330a3eccbff097fe837039499dff0b
                1 File(s)          1,332 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\58
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\58
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM               230 680f8446cb650e8c5b07e4e7eb5422e376e5dd
                1 File(s)            230 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\59
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\59
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1285,7 +1285,7 @@
 04/09/2026  11:43 AM             1,888 c26eb3a6a43d4a06c74f790bd2f2506bab1fe8
                6 File(s)          4,024 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\5a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\5a
 
 04/07/2026  02:59 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1296,14 +1296,14 @@
 04/07/2026  02:59 PM               895 f485b8a803fe9c5397ed3da3eaa53e6f74cc8d
                5 File(s)          6,978 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\5b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\5b
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM            35,498 4c18ca74f109e77dd1e1461c008840314bd348
                1 File(s)         35,498 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\5c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\5c
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1313,7 +1313,7 @@
 04/07/2026  06:53 PM               636 e0b14cc75820a1c36bf2747c63e0c3a2396792
                4 File(s)          3,318 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\5d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\5d
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1324,7 +1324,7 @@
 04/09/2026  08:07 AM               606 e369057d587a0c9cbf4ab0f04ac328796deb62
                5 File(s)          4,205 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\5e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\5e
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1336,7 +1336,7 @@
 04/09/2026  11:43 AM             1,238 ae208000db1af75b64c12078e0e45ca6972918
                6 File(s)          4,372 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\5f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\5f
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1346,7 +1346,7 @@
 04/07/2026  06:53 PM             1,859 fa23a49ec927c732dbd2d617545310677cc92d
                4 File(s)         66,268 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\61
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\61
 
 04/07/2026  01:46 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1354,21 +1354,21 @@
 04/07/2026  01:46 PM               606 4293f162f90330db2ddc8f3dd3cc55884f425d
                2 File(s)          3,220 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\62
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\62
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  11:43 AM               829 0412ab783de82a602110afe652b7696960081f
                1 File(s)            829 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\63
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\63
 
 04/03/2026  04:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/03/2026  04:03 PM               561 e8f55223a1784f4c17c6fa3d5561497c8decc3
                1 File(s)            561 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\64
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\64
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1377,7 +1377,7 @@
 04/07/2026  01:03 PM               414 e61dc1de6dede16a60957d7a01f140b1fc7856
                3 File(s)          2,115 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\65
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\65
 
 04/08/2026  10:15 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1387,7 +1387,7 @@
 04/07/2026  01:03 PM               420 b15bf54e8854d19c7e6b956b48678b8c760973
                4 File(s)          3,516 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\66
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\66
 
 04/09/2026  07:47 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1395,14 +1395,14 @@
 04/09/2026  07:47 AM               908 d2feda3bb9ee7967553ea13edc68fe0f2d6c21
                2 File(s)          1,884 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\67
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\67
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  11:43 AM               942 766893dada8bdd6ecbb2730f9b2bc465a61ada
                1 File(s)            942 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\68
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\68
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1412,14 +1412,14 @@
 04/07/2026  01:03 PM             6,387 b4b9ad03954996cb0872c00d35f811131a624e
                4 File(s)         13,846 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\69
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\69
 
 04/03/2026  12:52 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/03/2026  12:52 PM         1,604,962 c12fdfea98a32f7d024405cdb23a04993a10ba
                1 File(s)      1,604,962 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\6a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\6a
 
 04/09/2026  07:47 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1428,7 +1428,7 @@
 04/03/2026  12:52 PM               249 a9d24f2cfcda321d8c9212d50b831935a58ebd
                3 File(s)          1,455 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\6b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\6b
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1441,7 +1441,7 @@
 04/07/2026  06:48 PM             4,281 f743b1dd98c15511d404bc1e0e77baa206e928
                7 File(s)         12,727 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\6c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\6c
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1449,7 +1449,7 @@
 04/07/2026  03:57 PM               859 aa309180aac18ed937b278bd7b9d24dfd6efc0
                2 File(s)          5,075 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\6d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\6d
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1461,14 +1461,14 @@
 04/08/2026  10:05 AM             5,204 c13b5c2b739923ee1c7560acd33e3bb41dd872
                6 File(s)          9,892 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\6e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\6e
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  11:43 AM               935 513bf92aab96b27cb99cc65c8387e0a393a09d
                1 File(s)            935 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\6f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\6f
 
 04/07/2026  02:59 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1480,7 +1480,7 @@
 04/07/2026  01:03 PM               232 d22bf183dd7fd1bb8b7d05ff29f4e755fcc5c6
                6 File(s)         11,378 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\70
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\70
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1488,7 +1488,7 @@
 04/09/2026  11:43 AM               895 7fbea9e8f05dac5949127cda72e63550da8d8c
                2 File(s)          1,931 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\71
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\71
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1496,7 +1496,7 @@
 04/07/2026  02:59 PM             2,104 1a3d7f42de5e2769710975d13310c0b4f140f6
                2 File(s)          2,768 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\72
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\72
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1504,7 +1504,7 @@
 04/07/2026  03:57 PM               605 ba6b08ca653729cf8c5e6cab07ecacf7c19520
                2 File(s)          1,240 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\73
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\73
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1513,7 +1513,7 @@
 04/07/2026  07:21 PM               938 f99f53fe79d53de071c6417df1bf5fd8a1846e
                3 File(s)          1,767 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\74
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\74
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1522,7 +1522,7 @@
 04/07/2026  04:17 PM               606 db41993465cc6138aa704d33870571d1c0661e
                3 File(s)          5,542 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\75
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\75
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1530,7 +1530,7 @@
 04/07/2026  02:50 PM               618 bd29f75ff65dd3a6c7483ade767b1b71311c9e
                2 File(s)          1,552 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\76
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\76
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1541,7 +1541,7 @@
 04/07/2026  01:46 PM               239 f38bc1d50792ba0af6069b49cb83ec404123f1
                5 File(s)         13,430 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\77
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\77
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1551,7 +1551,7 @@
 04/09/2026  11:43 AM               260 f7a0ae75e01105b0646fa92d669fbf5e13c933
                4 File(s)          2,344 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\78
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\78
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1563,7 +1563,7 @@
 04/07/2026  12:06 PM               448 fe4f12069bbc8940c3d622a90fdbfc106ae4bf
                6 File(s)          4,683 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\79
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\79
 
 04/07/2026  06:54 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1573,14 +1573,14 @@
 04/03/2026  04:03 PM            34,221 b5b4820d7f2e28f49735a64b125447b4013e12
                4 File(s)         35,903 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\7a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\7a
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  08:07 AM             1,055 4456bacc34fc8b8cc520089e9c5ac9a7fa2ec3
                1 File(s)          1,055 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\7b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\7b
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1589,7 +1589,7 @@
 04/07/2026  07:21 PM             1,002 f9c2d61901cd3ccac70f2ae42d365bdb2b2809
                3 File(s)          2,188 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\7c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\7c
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1598,7 +1598,7 @@
 04/08/2026  10:05 AM               935 8e4b40c5da1e5058b0ce454a3880950073528a
                3 File(s)          2,811 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\7d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\7d
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1606,7 +1606,7 @@
 04/07/2026  06:48 PM               133 7d858f77aecd070646c94332baf3c55d3afa0b
                2 File(s)            345 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\7e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\7e
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1616,7 +1616,7 @@
 04/03/2026  12:52 PM             2,326 de3d998323f0e8fe389c87744d65bf9812bc47
                4 File(s)         10,671 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\7f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\7f
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1624,7 +1624,7 @@
 04/07/2026  06:28 PM               846 cdad1a064610244c81536e3574772e557c1fdc
                2 File(s)          1,021 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\80
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\80
 
 04/03/2026  04:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1632,7 +1632,7 @@
 04/03/2026  04:03 PM             4,198 7b9d3886bbaaf5de151075f21ea449d25c9df6
                2 File(s)          4,482 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\81
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\81
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1641,7 +1641,7 @@
 04/07/2026  07:21 PM               652 6e0a2956129b418801e5638e585b787d131689
                3 File(s)          1,967 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\82
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\82
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1651,7 +1651,7 @@
 04/07/2026  12:06 PM               447 eea46b59bfbc8f1ea121ef2817880c76aeb888
                4 File(s)          9,966 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\83
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\83
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1659,7 +1659,7 @@
 04/07/2026  12:06 PM               447 fccc798dce821a5a95d80ace9d1a7e401cc6f5
                2 File(s)          4,752 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\84
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\84
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1670,7 +1670,7 @@
 04/07/2026  02:50 PM             4,227 fc8b47f95eeade9e0384fb6876470c29d3866c
                5 File(s)         13,477 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\85
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\85
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1681,7 +1681,7 @@
 04/07/2026  07:21 PM               478 fd5ed3bb891c564e4ed8c7b901118159f35e2e
                5 File(s)         11,407 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\86
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\86
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1690,7 +1690,7 @@
 04/09/2026  08:07 AM               212 f3bd5dd9f5f2552560ff3ef4b9d128bc7da868
                3 File(s)          1,230 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\87
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\87
 
 04/08/2026  10:12 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1699,7 +1699,7 @@
 04/07/2026  01:03 PM         1,078,211 bf6d521ed25d6018c4df54529d5853804aa5da
                3 File(s)      8,247,097 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\88
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\88
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1707,7 +1707,7 @@
 04/07/2026  03:57 PM             4,224 4ff9f95677c334f4505d6cf6273cd7f53cc41f
                2 File(s)          5,454 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\89
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\89
 
 04/08/2026  08:58 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1716,14 +1716,14 @@
 04/08/2026  08:58 PM             5,221 c5739ed791b903a18da64fb43e29c04150c6bb
                3 File(s)          5,882 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\8a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\8a
 
 04/07/2026  12:06 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  12:06 PM             1,050 0967cdb51e17e7b98f111942d0fb61f375d41f
                1 File(s)          1,050 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\8b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\8b
 
 04/07/2026  04:04 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1733,7 +1733,7 @@
 04/03/2026  04:03 PM                59 f77f6b4d4204105bbc29e19358e0a7ffad4713
                4 File(s)          2,890 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\8c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\8c
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1741,7 +1741,7 @@
 04/07/2026  01:03 PM               132 f6af53a00b5c70500c8763fa0920375d262e02
                2 File(s)            549 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\8d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\8d
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1749,14 +1749,14 @@
 04/09/2026  08:07 AM               213 9cfc937c3915390f2dab3571c951c8a8919ccc
                2 File(s)            528 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\8e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\8e
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  11:43 AM             1,775 0442da00a8c4585d186b4ac9bf1484d526b35a
                1 File(s)          1,775 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\90
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\90
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1766,7 +1766,7 @@
 04/07/2026  01:03 PM               313 cf7c4487f21e746379a54c5218410cf3e774c0
                4 File(s)      6,511,876 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\91
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\91
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1774,14 +1774,14 @@
 04/07/2026  07:21 PM             1,186 e69bf145db66bd7fe476fbf947636bf34f46be
                2 File(s)          2,091 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\92
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\92
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/08/2026  10:05 AM               850 210392b2e2dac3e06f00fd41e5a5f772377952
                1 File(s)            850 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\93
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\93
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1791,7 +1791,7 @@
 04/03/2026  04:03 PM               205 97a1a84ca356cc27ee044f42e1d55bf740a45b
                4 File(s)          1,656 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\94
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\94
 
 04/07/2026  04:04 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1799,7 +1799,7 @@
 04/07/2026  01:04 PM               213 e85c33bfaa104565646ddebed2e573dc6a2eb9
                2 File(s)          1,745 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\95
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\95
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1809,7 +1809,7 @@
 04/03/2026  12:52 PM               637 eb4c665b6977b70af59310bca652299573e37c
                4 File(s)         36,222 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\96
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\96
 
 04/07/2026  01:46 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1819,7 +1819,7 @@
 04/07/2026  12:06 PM               965 ed5f605755a4caeaabdf52b33fd233bad6a8e6
                4 File(s)          5,698 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\97
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\97
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1827,7 +1827,7 @@
 04/09/2026  11:43 AM             1,568 dde65e943deb79fd4763ec67b40d8a16d2a23d
                2 File(s)          2,586 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\98
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\98
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1839,7 +1839,7 @@
 04/03/2026  12:52 PM             3,692 c3b082a3ebe3808c2ffa3265001110482e96d2
                6 File(s)          5,556 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\99
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\99
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1849,7 +1849,7 @@
 04/07/2026  02:50 PM               606 da7ace73e917ea19fd506d02d31cf65c1a41c7
                4 File(s)          1,195 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\9a
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\9a
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1857,7 +1857,7 @@
 04/09/2026  11:43 AM             1,020 8cb74f6707cff849d52a08e26aedd103af24c8
                2 File(s)          1,432 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\9b
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\9b
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1866,7 +1866,7 @@
 04/07/2026  12:56 PM               246 5f20f91f96803e0df5863ce17e46cf3c1c91d9
                3 File(s)          2,007 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\9c
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\9c
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1875,7 +1875,7 @@
 04/07/2026  01:03 PM             1,363 f9c7868d4957c1ba02557faa7d90fc0cac1f73
                3 File(s)          2,351 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\9d
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\9d
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1886,7 +1886,7 @@
 04/07/2026  12:06 PM               212 e07f4a45f517a909f07d4f2dc4e58b7653ab0f
                5 File(s)          5,051 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\9e
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\9e
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1895,7 +1895,7 @@
 04/08/2026  10:05 AM             5,146 bcf20d68e04c37da1c01caa7be7ae6ce46405c
                3 File(s)          6,091 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\9f
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\9f
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1905,7 +1905,7 @@
 04/07/2026  07:21 PM               665 fe6e04fe44f0c4db63a4d0d17dc39a7edf87bd
                4 File(s)          2,660 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a0
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a0
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1915,7 +1915,7 @@
 04/07/2026  06:48 PM             1,075 f93ff37a4906434c2a83fca53aa56baae089a6
                4 File(s)          9,270 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a1
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a1
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1923,7 +1923,7 @@
 04/07/2026  12:07 PM               246 b9faa075750a049c70dec4d3a273791bcb60b1
                2 File(s)            690 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a2
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a2
 
 04/08/2026  10:20 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1935,7 +1935,7 @@
 04/03/2026  12:52 PM               478 d804af7207d3cc84006a34a2ba8b3440ef6444
                6 File(s)          4,016 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a3
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a3
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1944,7 +1944,7 @@
 04/09/2026  11:43 AM               646 3e36c5712c520d9e0e1b2285e42321c0b18c9c
                3 File(s)      6,556,789 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a4
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a4
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1955,7 +1955,7 @@
 04/03/2026  12:52 PM               980 f7e0e6055ae2edc6bbdc0385052c5ef9707272
                5 File(s)          6,053 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a5
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a5
 
 04/09/2026  07:47 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1963,7 +1963,7 @@
 04/07/2026  07:21 PM             4,305 a4faf5413b1f515f6be87cbb0c7359e464f151
                2 File(s)          5,001 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a6
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a6
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1975,14 +1975,14 @@
 04/07/2026  01:03 PM               124 abd9b07d0a262aaeab772e33155078cec145d6
                6 File(s)          3,953 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a7
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a7
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM               263 3736a29bc028afbd9eb6e7999b0a97cdcce933
                1 File(s)            263 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a8
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a8
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -1992,7 +1992,7 @@
 04/03/2026  12:52 PM         6,597,555 e1c968005ff0719840a7aa747347dd7d3c5d1a
                4 File(s)      6,598,976 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\a9
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\a9
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2000,14 +2000,14 @@
 04/07/2026  01:03 PM               231 83d331a76555fe0ebeea0bc9abeaa5159ab5f3
                2 File(s)          5,218 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\aa
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\aa
 
 04/07/2026  12:06 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  12:06 PM                76 2e90f02ed51c3171d913386623c551f19bb97c
                1 File(s)             76 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ab
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ab
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2018,7 +2018,7 @@
 04/07/2026  06:48 PM             2,455 ef514fedddf661e0d9b8ad51373388f2a42c26
                5 File(s)          5,106 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ac
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ac
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2027,14 +2027,14 @@
 04/07/2026  02:54 PM             2,040 f10f7b326a92b196be5bb9cfaca500b8b14295
                3 File(s)          3,505 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ad
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ad
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/08/2026  10:05 AM               664 1fb09bd56f9306e3698ff86a52d02e0fcd363c
                1 File(s)            664 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ae
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ae
 
 04/07/2026  12:26 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2042,7 +2042,7 @@
 04/03/2026  12:52 PM               940 80ed701df4fa995c1debf99aa9170a298647cc
                2 File(s)          1,185 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\af
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\af
 
 04/08/2026  08:58 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2051,14 +2051,14 @@
 04/07/2026  07:21 PM             1,068 9b3cee554ad9c67d45b4c99da1dbfae5d54afd
                3 File(s)          9,038 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b0
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b0
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/08/2026  10:05 AM               664 8cf91d2929550e3d45360bde404e92eb1aab7f
                1 File(s)            664 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b1
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b1
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2067,14 +2067,14 @@
 04/07/2026  04:04 PM               851 e04be10090d9d3b5e542efda3c220d6593b4aa
                3 File(s)          1,323 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b2
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b2
 
 04/03/2026  12:52 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/03/2026  12:52 PM               170 4cff0181af6876ecf1425f9df5b3393550477b
                1 File(s)            170 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b3
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b3
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2082,7 +2082,7 @@
 04/07/2026  07:21 PM             4,303 741d07d1f78e185c8725986801b9e693760c12
                2 File(s)          4,967 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b4
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b4
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2090,7 +2090,7 @@
 04/07/2026  03:57 PM             1,249 7f0069604480cfe206f5f6509607e720af9564
                2 File(s)          2,096 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b5
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b5
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2100,7 +2100,7 @@
 04/07/2026  02:59 PM               606 c05714942af1101a2d07234788fdf56c86500e
                4 File(s)          6,367 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b7
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b7
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2108,7 +2108,7 @@
 04/07/2026  06:48 PM               635 78bc1f188c0ec6c20fd4eabed5264c44edf08d
                2 File(s)          1,095 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b8
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b8
 
 04/07/2026  04:20 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2119,7 +2119,7 @@
 04/07/2026  04:20 PM            10,776 ef5b5131f49f84e941896986e7fcae7ed9d5b4
                5 File(s)         13,469 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\b9
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\b9
 
 04/07/2026  04:20 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2129,7 +2129,7 @@
 04/07/2026  01:03 PM               326 ec62a6bda9d6acc919a7240288a48dfc390f03
                4 File(s)          2,670 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ba
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ba
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2137,7 +2137,7 @@
 04/07/2026  06:53 PM             1,624 d00b2c377e94826e2ceb0f836a377c5ee9f995
                2 File(s)          5,849 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\bb
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\bb
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2147,14 +2147,14 @@
 04/09/2026  11:43 AM               295 805f4d7d66caf48c7ec120a64329ba2b44b01c
                4 File(s)          5,482 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\bc
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\bc
 
 04/07/2026  01:01 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:01 PM               245 36d2ec4b1f3f544eed093ab339feedd8e51aa0
                1 File(s)            245 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\bd
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\bd
 
 04/07/2026  04:17 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2166,7 +2166,7 @@
 04/07/2026  03:57 PM               952 b1cfc1e4d6d379b72b7fdac2b59b7aa9422a5e
                6 File(s)          7,914 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\be
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\be
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2175,7 +2175,7 @@
 04/07/2026  06:48 PM               847 e64a88e73af0b5f5a00efb33f85b44aba2fd7e
                3 File(s)          4,116 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\bf
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\bf
 
 04/07/2026  01:46 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2185,7 +2185,7 @@
 04/07/2026  01:46 PM               912 fc24e479aae0c2b9e10b7933950beb3dd89571
                4 File(s)        241,130 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c0
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c0
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2194,7 +2194,7 @@
 04/07/2026  04:04 PM               254 e17781b0159d85cf116110579e42a929e737bc
                3 File(s)          2,321 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c1
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c1
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2203,7 +2203,7 @@
 04/07/2026  07:21 PM               665 a4ee7e5c35dc0095242e534676dedd922df163
                3 File(s)        104,811 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c2
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c2
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2215,7 +2215,7 @@
 04/09/2026  11:43 AM             1,106 bf925a69b4e54a9839683ad886e6bdfd198839
                6 File(s)         13,924 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c3
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c3
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2224,7 +2224,7 @@
 04/08/2026  10:05 AM             5,186 bef4e36aa7fcd963ce55d884e099972adc0338
                3 File(s)          5,747 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c4
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c4
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2232,21 +2232,21 @@
 04/07/2026  12:06 PM               448 ee3af547f605da3b51615df2846966c40e5965
                2 File(s)          1,298 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c5
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c5
 
 04/07/2026  02:50 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  02:50 PM               558 72c243f74e0470a9d6d2aa6e462b45e809517f
                1 File(s)            558 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c6
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c6
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/08/2026  10:05 AM               663 f26747e975a15f51b87cdff7e9c6c30817a4ef
                1 File(s)            663 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c7
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c7
 
 04/07/2026  02:50 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2256,7 +2256,7 @@
 04/03/2026  12:52 PM               624 bd823b9ebc5658ef355230b6cfa678e55e51e1
                4 File(s)          2,708 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c8
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c8
 
 04/08/2026  08:58 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2264,7 +2264,7 @@
 04/07/2026  01:03 PM           250,434 92627e7b9496ed2bccf61e2ae82bf347252eeb
                2 File(s)        251,098 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\c9
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\c9
 
 04/07/2026  01:46 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2274,7 +2274,7 @@
 04/03/2026  12:52 PM               364 ef30a95c444c355646d8fec1e170621fe877dc
                4 File(s)          6,384 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ca
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ca
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2283,7 +2283,7 @@
 04/09/2026  11:43 AM             1,310 af63ba3da9c48e2f4f911dbc8c10ab17d85d34
                3 File(s)         53,811 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\cb
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\cb
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2292,7 +2292,7 @@
 04/07/2026  07:21 PM             4,305 9ca603e74c1fd1c5b82757d5395fd255f814cf
                3 File(s)         10,050 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\cc
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\cc
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2304,7 +2304,7 @@
 04/07/2026  12:26 PM               573 c7e432e07310d797a95225329d98a629f45b63
                6 File(s)          4,314 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ce
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ce
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2313,7 +2313,7 @@
 04/07/2026  12:06 PM               212 fe26db4d33e676905659b64f702bf07d8f41d1
                3 File(s)          3,140 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\cf
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\cf
 
 04/08/2026  10:20 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2322,14 +2322,14 @@
 04/08/2026  10:20 AM               853 a8c19792c2a663e3980a10dcbbbb5c33f1caa3
                3 File(s)          5,339 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d0
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d0
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  07:21 PM               278 5b89bcb92b3456814bafccfc77410a514f9548
                1 File(s)            278 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d1
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d1
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2339,7 +2339,7 @@
 04/07/2026  01:03 PM               419 9decc29d34211f743bc181f927835dae67ea89
                4 File(s)          6,693 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d2
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d2
 
 04/07/2026  02:50 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2348,7 +2348,7 @@
 04/03/2026  12:52 PM             4,274 5fa25f83c57d0beea3233634aa764441fd3f50
                3 File(s)          7,740 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d3
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d3
 
 04/07/2026  02:54 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2358,7 +2358,7 @@
 04/07/2026  02:54 PM               607 ae583ff4780faff9440f914dea1788cfe6994e
                4 File(s)         18,319 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d4
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d4
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2367,7 +2367,7 @@
 04/03/2026  12:52 PM             1,134 9803f5baf4f4168bf5f336633591b7e7586903
                3 File(s)          2,023 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d5
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d5
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2377,7 +2377,7 @@
 04/07/2026  12:06 PM               511 70d65fdc5dc53dd7d77f4ad1b5dc213dc88c53
                4 File(s)          5,812 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d7
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d7
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2387,21 +2387,21 @@
 04/07/2026  01:19 PM               213 fb41a0506f9903a25ba5a0bac2974a4123da4d
                4 File(s)          6,619 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d8
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d8
 
 04/03/2026  12:52 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/03/2026  12:52 PM             3,773 f98855c3d2699cf35f0b9b10fedaf2a17f4b42
                1 File(s)          3,773 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\d9
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\d9
 
 04/07/2026  12:06 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  12:06 PM               481 832b26ea64b591ad794be09c6bb933ab90de01
                1 File(s)            481 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\db
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\db
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2410,7 +2410,7 @@
 04/07/2026  07:21 PM               624 de15d1b06504d921ed536756ff8bb5b497c3c7
                3 File(s)          2,417 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\dc
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\dc
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2419,7 +2419,7 @@
 04/07/2026  01:03 PM             6,895 b510b7e1b4236e077bf2079f4052e4bc33b85a
                3 File(s)          8,624 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\dd
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\dd
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2428,7 +2428,7 @@
 04/07/2026  12:06 PM               447 ae981cbcfd4b7752f663f98fd244f6b886f96e
                3 File(s)          1,388 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\de
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\de
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2437,7 +2437,7 @@
 04/09/2026  11:43 AM               521 f4c45458a971c1dde26c2d9efe4427fafbc780
                3 File(s)          6,623 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\df
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\df
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2445,7 +2445,7 @@
 04/03/2026  12:50 PM               393 45b81a3447e9e671918245c4acd4532d1e045a
                2 File(s)          5,532 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e0
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e0
 
 04/07/2026  02:53 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2455,7 +2455,7 @@
 04/07/2026  01:03 PM               324 e64b648fa6f1d3c8b3167225d9e4a5a48d9eec
                4 File(s)          1,405 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e2
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e2
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2467,7 +2467,7 @@
 04/09/2026  11:43 AM             2,776 c8f91499931b495b32cac579c1cf99894960ff
                6 File(s)          6,972 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e3
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e3
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2476,14 +2476,14 @@
 04/03/2026  12:52 PM               928 e0290ba18a8975f4da83aacf3206f14e8e834c
                3 File(s)          2,129 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e4
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e4
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM                89 22d648f946e6ad98cf3623aaf804ca2343efd5
                1 File(s)             89 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e5
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e5
 
 04/07/2026  04:20 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2491,14 +2491,14 @@
 04/07/2026  02:50 PM             1,659 f4f0676648ebb705bf3f1356bc4815e8047f2f
                2 File(s)          1,860 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e6
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e6
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  11:43 AM               795 47e73239148adcc8ffe5203bc9e7c2a770070b
                1 File(s)            795 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e7
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e7
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2510,7 +2510,7 @@
 04/08/2026  10:05 AM             5,170 e6adad1946b3ebfbec45aca661cee634f85950
                6 File(s)          7,476 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e8
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e8
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2519,14 +2519,14 @@
 04/09/2026  08:07 AM               978 d5d36c2d2ba7fc747ed3054725f4bed7ee50b9
                3 File(s)          1,863 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\e9
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\e9
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  06:48 PM               181 ee4d673658e417a19eed9ee60c4ced9af0e625
                1 File(s)            181 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ea
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ea
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2536,7 +2536,7 @@
 04/07/2026  01:03 PM               198 7a43bcd4ae8b8dba30f97d5b7f123ed0d4bfbc
                4 File(s)         53,767 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\eb
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\eb
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2547,7 +2547,7 @@
 04/07/2026  01:19 PM               605 dfb192bac5d21667e8ec94d2bc0459fc6fac49
                5 File(s)         75,999 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ec
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ec
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2556,7 +2556,7 @@
 04/07/2026  01:03 PM               229 c63d630f96a7972d01cbe2825ba767bc984344
                3 File(s)         14,209 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ed
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ed
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2565,7 +2565,7 @@
 04/09/2026  11:43 AM             4,103 f62e5fc3257feb3edd2d9309a0d12dcafcfd60
                3 File(s)          8,780 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ee
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ee
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2573,7 +2573,7 @@
 04/07/2026  07:21 PM             4,305 bad129a96f429bb9fa8f1da71e6d4dc5a120cf
                2 File(s)          5,072 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ef
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ef
 
 04/07/2026  03:57 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2581,7 +2581,7 @@
 04/07/2026  12:06 PM             1,055 877d4fb4644b87983e3dc6b3a82a2c3373e9d8
                2 File(s)          1,984 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f0
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f0
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2592,14 +2592,14 @@
 04/03/2026  04:03 PM               102 f28541f224177dbba3b046421d442b1a1c7031
                5 File(s)          7,763 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f2
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f2
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:03 PM               164 3230302b4efb6c89594c4c7676a296ecd8c9e2
                1 File(s)            164 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f3
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f3
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2610,7 +2610,7 @@
 04/09/2026  11:43 AM             1,160 edc63d9b0226cd14dd19a5bd0ad7884aa4124b
                5 File(s)          8,598 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f4
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f4
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2620,7 +2620,7 @@
 04/07/2026  06:48 PM               272 b12966bb8dc5e593167b60072d07babfb95bff
                4 File(s)         10,606 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f5
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f5
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2629,14 +2629,14 @@
 04/07/2026  06:48 PM             4,278 ef6d23064f7779e2b5bc203fde9eb4dcfbe02a
                3 File(s)          5,519 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f6
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f6
 
 04/07/2026  06:48 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  06:48 PM               607 fe26a94f467c8c9f391b0284ba6808e4fabad8
                1 File(s)            607 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f7
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f7
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2644,7 +2644,7 @@
 04/07/2026  01:03 PM               124 cb743a3f954cacc499c31b526c233b34492c0f
                2 File(s)      1,112,322 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f8
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f8
 
 04/08/2026  10:05 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2652,21 +2652,21 @@
 04/07/2026  07:21 PM             1,014 29f5d58759b7baf6315c0fe0feb06eca92f10e
                2 File(s)          6,205 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\f9
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\f9
 
 04/07/2026  01:46 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/07/2026  01:46 PM               858 044b157f5f3b13d41d6863dbaa1720c44bf259
                1 File(s)            858 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\fa
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\fa
 
 04/09/2026  08:07 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
 04/09/2026  08:07 AM               212 9f275c95d069929943a5f32b4493624d6c633e
                1 File(s)            212 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\fb
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\fb
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2679,7 +2679,7 @@
 04/07/2026  06:53 PM             1,120 d77e5fc83e6c336e3ea6b86c304219794260ec
                7 File(s)          4,181 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\fc
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\fc
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2690,7 +2690,7 @@
 04/07/2026  03:57 PM               931 f8872543bde57b2c3a7c9b043476ce9b03730c
                5 File(s)          7,900 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\fd
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\fd
 
 04/07/2026  07:21 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2700,7 +2700,7 @@
 04/07/2026  07:21 PM               949 db24e289dc390aa2ae91475bd2d2ad639daff1
                4 File(s)          2,396 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\ff
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\ff
 
 04/07/2026  02:59 PM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2709,13 +2709,13 @@
 04/03/2026  12:52 PM         1,891,386 f323aba182f62cb32d6b2ef4bb1b3834433eac
                3 File(s)      1,892,575 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\info
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\info
 
 04/03/2026  11:55 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\pack
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\pack
 
 04/08/2026  10:25 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          ..
@@ -2757,7 +2757,7 @@
 04/07/2026  04:17 PM           193,186 pack-fc9ea7922ddf0dfe2d7aa3bd4cff545944cef3f0.pack
               36 File(s)     96,254,765 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs
 
 04/03/2026  11:55 AM    <DIR>          .
 04/09/2026  11:43 AM    <DIR>          heads
@@ -2765,7 +2765,7 @@
 04/06/2026  10:10 AM    <DIR>          tags
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\heads
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\heads
 
 04/09/2026  11:43 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -2774,14 +2774,14 @@
 04/07/2026  01:04 PM                41 WhalerMike-patch-1
                3 File(s)            123 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/09/2026  11:44 AM    <DIR>          origin
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes\origin
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes\origin
 
 04/09/2026  11:44 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -2793,28 +2793,28 @@
 04/06/2026  10:11 AM                41 WhalerMike-patch-1
                4 File(s)            153 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes\origin\copilot
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes\origin\copilot
 
 04/07/2026  12:06 PM    <DIR>          .
 04/09/2026  11:44 AM    <DIR>          ..
 04/07/2026  12:06 PM                41 execute-all-when-possible
                1 File(s)             41 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes\origin\dependabot
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes\origin\dependabot
 
 04/06/2026  10:10 AM    <DIR>          .
 04/09/2026  11:44 AM    <DIR>          ..
 04/06/2026  10:10 AM    <DIR>          github_actions
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes\origin\dependabot\github_actions
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes\origin\dependabot\github_actions
 
 04/06/2026  10:10 AM    <DIR>          .
 04/06/2026  10:10 AM    <DIR>          ..
 04/09/2026  08:07 AM    <DIR>          actions
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes\origin\dependabot\github_actions\actions
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes\origin\dependabot\github_actions\actions
 
 04/09/2026  08:07 AM    <DIR>          .
 04/06/2026  10:10 AM    <DIR>          ..
@@ -2825,14 +2825,14 @@
 04/09/2026  08:07 AM                41 upload-pages-artifact-4
                5 File(s)            205 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\tags
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\tags
 
 04/06/2026  10:10 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/06/2026  10:10 AM                41 v2.0.0
                1 File(s)             41 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github
+ Directory of C:\Users\whale\src\uiao-docs\.github
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -2845,7 +2845,7 @@
 04/09/2026  11:43 AM    <DIR>          workflows
                4 File(s)          3,506 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github\ISSUE_TEMPLATE
+ Directory of C:\Users\whale\src\uiao-docs\.github\ISSUE_TEMPLATE
 
 04/07/2026  06:53 PM    <DIR>          .
 04/07/2026  06:53 PM    <DIR>          ..
@@ -2859,7 +2859,7 @@
 04/07/2026  06:53 PM             1,317 weekly-metadata-drift.md
                8 File(s)          9,951 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github\PULL_REQUEST_TEMPLATE
+ Directory of C:\Users\whale\src\uiao-docs\.github\PULL_REQUEST_TEMPLATE
 
 04/07/2026  07:21 PM    <DIR>          .
 04/07/2026  06:53 PM    <DIR>          ..
@@ -2867,7 +2867,7 @@
 04/07/2026  06:53 PM             2,260 remediation-metadata.md
                2 File(s)          4,316 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github\workflows
+ Directory of C:\Users\whale\src\uiao-docs\.github\workflows
 
 04/09/2026  11:43 AM    <DIR>          .
 04/07/2026  06:53 PM    <DIR>          ..
@@ -2910,7 +2910,7 @@
 04/07/2026  06:53 PM             5,390 weekly-metadata-drift-consolidated.yml
               37 File(s)         97,568 bytes
 
- Directory of C:\Users\whale\uiao-docs\appendices
+ Directory of C:\Users\whale\src\uiao-docs\appendices
 
 04/07/2026  01:06 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -2920,7 +2920,7 @@
 04/07/2026  01:06 PM             5,102 Appendix-E-SCuBA-Field-Dictionary.md
                4 File(s)         12,789 bytes
 
- Directory of C:\Users\whale\uiao-docs\data
+ Directory of C:\Users\whale\src\uiao-docs\data
 
 04/07/2026  01:06 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -2961,7 +2961,7 @@
 04/03/2026  11:57 AM            11,532 vendor-stack.yml
               35 File(s)        251,296 bytes
 
- Directory of C:\Users\whale\uiao-docs\diagrams
+ Directory of C:\Users\whale\src\uiao-docs\diagrams
 
 04/07/2026  01:46 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -2973,7 +2973,7 @@
 04/07/2026  01:46 PM             1,697 uiao-truth-fabric.puml
                6 File(s)         11,554 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs
+ Directory of C:\Users\whale\src\uiao-docs\docs
 
 04/08/2026  08:58 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -3137,7 +3137,7 @@
 04/03/2026  04:03 PM             7,980 zero_trust_narrative_v1.0.qmd
              142 File(s)        933,579 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\adapters
+ Directory of C:\Users\whale\src\uiao-docs\docs\adapters
 
 04/03/2026  04:03 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3149,7 +3149,7 @@
 04/03/2026  04:03 PM            11,319 database-adapters.qmd
                6 File(s)         52,311 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\adr
+ Directory of C:\Users\whale\src\uiao-docs\docs\adr
 
 04/07/2026  04:17 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3189,7 +3189,7 @@
 04/07/2026  03:57 PM             3,998 index.md
               34 File(s)         72,786 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix
 
 04/07/2026  01:06 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3201,7 +3201,7 @@
 04/03/2026  04:03 PM               254 README.qmd
                1 File(s)            254 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\a-adapter-plane
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\a-adapter-plane
 
 04/07/2026  02:32 PM    <DIR>          .
 04/07/2026  01:06 PM    <DIR>          ..
@@ -3212,7 +3212,7 @@
 04/07/2026  02:32 PM             2,756 index.md
                5 File(s)         17,036 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\b-truth-fabric
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\b-truth-fabric
 
 04/07/2026  02:32 PM    <DIR>          .
 04/07/2026  01:06 PM    <DIR>          ..
@@ -3223,7 +3223,7 @@
 04/07/2026  02:32 PM             2,443 index.md
                5 File(s)         17,029 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\c-drift-fabric
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\c-drift-fabric
 
 04/07/2026  02:32 PM    <DIR>          .
 04/07/2026  01:06 PM    <DIR>          ..
@@ -3233,7 +3233,7 @@
 04/07/2026  02:32 PM             2,224 index.md
                4 File(s)         14,181 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\d-evidence-fabric
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\d-evidence-fabric
 
 04/07/2026  02:32 PM    <DIR>          .
 04/07/2026  01:06 PM    <DIR>          ..
@@ -3244,7 +3244,7 @@
 04/07/2026  02:32 PM             2,636 index.md
                5 File(s)         17,398 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\e-governance-plane
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\e-governance-plane
 
 04/07/2026  02:32 PM    <DIR>          .
 04/07/2026  01:06 PM    <DIR>          ..
@@ -3254,7 +3254,7 @@
 04/07/2026  02:32 PM             2,005 index.md
                4 File(s)         13,009 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\architecture
+ Directory of C:\Users\whale\src\uiao-docs\docs\architecture
 
 04/03/2026  04:03 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3262,7 +3262,7 @@
 04/03/2026  04:03 PM             1,602 repo-structure.qmd
                2 File(s)          2,085 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\canon
+ Directory of C:\Users\whale\src\uiao-docs\docs\canon
 
 04/07/2026  04:20 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3274,14 +3274,14 @@
 04/07/2026  02:32 PM             5,209 pdf-layout-spec.md
                6 File(s)         33,549 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\ci
+ Directory of C:\Users\whale\src\uiao-docs\docs\ci
 
 04/07/2026  07:21 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
 04/07/2026  07:21 PM             2,077 TESTPLAN-metadata-validator.md
                1 File(s)          2,077 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\diagrams
+ Directory of C:\Users\whale\src\uiao-docs\docs\diagrams
 
 04/07/2026  02:50 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3294,14 +3294,14 @@
 04/07/2026  02:50 PM             1,264 truth-fabric.md
                7 File(s)          7,454 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\documents
+ Directory of C:\Users\whale\src\uiao-docs\docs\documents
 
 04/07/2026  02:50 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
 04/07/2026  02:50 PM               564 index.md
                1 File(s)            564 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\governance
+ Directory of C:\Users\whale\src\uiao-docs\docs\governance
 
 04/08/2026  09:25 AM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3435,7 +3435,7 @@
 04/07/2026  01:06 PM           285,868 Visual Map of Where Everything Lives.png
              128 File(s)        582,465 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\images
+ Directory of C:\Users\whale\src\uiao-docs\docs\images
 
 04/07/2026  06:48 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3470,14 +3470,14 @@
 04/03/2026  11:55 AM         7,042,756 unified_arch.png
               29 File(s)    140,350,376 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\javascripts
+ Directory of C:\Users\whale\src\uiao-docs\docs\javascripts
 
 04/07/2026  01:06 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
 04/07/2026  01:06 PM               420 download.js
                1 File(s)            420 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\meta
+ Directory of C:\Users\whale\src\uiao-docs\docs\meta
 
 04/07/2026  06:48 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3489,7 +3489,7 @@
 04/07/2026  06:48 PM             4,829 uiao-document-metadata-contract.md
                6 File(s)         21,998 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\onboarding
+ Directory of C:\Users\whale\src\uiao-docs\docs\onboarding
 
 04/07/2026  01:06 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3498,14 +3498,14 @@
 04/03/2026  04:03 PM               428 README.qmd
                3 File(s)            786 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\patterns
+ Directory of C:\Users\whale\src\uiao-docs\docs\patterns
 
 04/03/2026  04:03 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
 04/03/2026  04:03 PM               408 README.qmd
                1 File(s)            408 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\stylesheets
+ Directory of C:\Users\whale\src\uiao-docs\docs\stylesheets
 
 04/07/2026  06:28 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
@@ -3513,28 +3513,28 @@
 04/07/2026  06:28 PM             1,494 uiao.css
                2 File(s)          2,380 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\user-guides
+ Directory of C:\Users\whale\src\uiao-docs\docs\user-guides
 
 04/03/2026  04:03 PM    <DIR>          .
 04/08/2026  08:58 PM    <DIR>          ..
 04/03/2026  04:03 PM               378 README.qmd
                1 File(s)            378 bytes
 
- Directory of C:\Users\whale\uiao-docs\exports
+ Directory of C:\Users\whale\src\uiao-docs\exports
 
 04/07/2026  01:03 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
 04/07/2026  01:03 PM               201 README.md
                1 File(s)            201 bytes
 
- Directory of C:\Users\whale\uiao-docs\overrides
+ Directory of C:\Users\whale\src\uiao-docs\overrides
 
 04/07/2026  06:28 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
 04/07/2026  06:28 PM             2,144 main.html
                1 File(s)          2,144 bytes
 
- Directory of C:\Users\whale\uiao-docs\references
+ Directory of C:\Users\whale\src\uiao-docs\references
 
 04/07/2026  01:06 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -3542,14 +3542,14 @@
 04/07/2026  01:06 PM         1,218,640 UIAO_Documentation_Pipeline_2-Repository_Structure.png
                2 File(s)      2,473,421 bytes
 
- Directory of C:\Users\whale\uiao-docs\reports
+ Directory of C:\Users\whale\src\uiao-docs\reports
 
 04/07/2026  01:06 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
 04/07/2026  01:06 PM             3,749 SCuBA-Canonical-Report.md
                1 File(s)          3,749 bytes
 
- Directory of C:\Users\whale\uiao-docs\schemas
+ Directory of C:\Users\whale\src\uiao-docs\schemas
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -3557,7 +3557,7 @@
 04/07/2026  06:48 PM             4,439 uiao-governance.schema.json
                2 File(s)          9,002 bytes
 
- Directory of C:\Users\whale\uiao-docs\scripts
+ Directory of C:\Users\whale\src\uiao-docs\scripts
 
 04/07/2026  06:53 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -3568,7 +3568,7 @@
 04/03/2026  04:03 PM             1,304 validate_directory.py
                5 File(s)         36,941 bytes
 
- Directory of C:\Users\whale\uiao-docs\site
+ Directory of C:\Users\whale\src\uiao-docs\site
 
 04/08/2026  10:24 AM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -3737,14 +3737,14 @@
 04/08/2026  10:24 AM             7,980 zero_trust_narrative_v1.0.qmd
              105 File(s)      1,032,462 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\access
+ Directory of C:\Users\whale\src\uiao-docs\site\access
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,237 index.html
                1 File(s)        115,237 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adapters
+ Directory of C:\Users\whale\src\uiao-docs\site\adapters
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -3756,7 +3756,7 @@
 04/08/2026  10:24 AM            11,319 database-adapters.qmd
                6 File(s)         52,311 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr
+ Directory of C:\Users\whale\src\uiao-docs\site\adr
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -3796,175 +3796,175 @@
 04/08/2026  10:24 AM           116,948 index.html
               10 File(s)        148,237 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-000-adr-process
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-000-adr-process
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,914 index.html
                1 File(s)        115,914 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-005-canonical-claim-schema
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-005-canonical-claim-schema
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,647 index.html
                1 File(s)        112,647 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-006-evidence-determinism
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-006-evidence-determinism
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,368 index.html
                1 File(s)        112,368 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-007-multi-cloud-adapter
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-007-multi-cloud-adapter
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,398 index.html
                1 File(s)        112,398 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-008-zero-trust-identity
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-008-zero-trust-identity
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,996 index.html
                1 File(s)        111,996 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-009-drift-ledger-immutability
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-009-drift-ledger-immutability
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,942 index.html
                1 File(s)        111,942 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-010-vendor-baseline-versioning
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-010-vendor-baseline-versioning
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,429 index.html
                1 File(s)        112,429 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-011-multi-adapter-correlation
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-011-multi-adapter-correlation
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,196 index.html
                1 File(s)        112,196 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-012-canonical-drift-taxonomy
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-012-canonical-drift-taxonomy
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,948 index.html
                1 File(s)        111,948 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-013-adapter-failure-isolation
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-013-adapter-failure-isolation
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,923 index.html
                1 File(s)        111,923 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-014-evidence-severity-model
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-014-evidence-severity-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,225 index.html
                1 File(s)        112,225 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-015-adapter-extensibility
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-015-adapter-extensibility
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,163 index.html
                1 File(s)        112,163 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-016-evidence-bundle-lifecycle
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-016-evidence-bundle-lifecycle
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,753 index.html
                1 File(s)        111,753 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-017-adapter-sandbox-execution
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-017-adapter-sandbox-execution
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,969 index.html
                1 File(s)        111,969 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-018-mission-channel-enforcement
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-018-mission-channel-enforcement
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,124 index.html
                1 File(s)        112,124 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-019-vendor-failure-containment
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-019-vendor-failure-containment
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,090 index.html
                1 File(s)        112,090 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-020-evidence-correlation-determinism
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-020-evidence-correlation-determinism
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,501 index.html
                1 File(s)        111,501 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-021-adapter-hot-swap-rollback
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-021-adapter-hot-swap-rollback
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,028 index.html
                1 File(s)        112,028 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-022-evidence-compression
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-022-evidence-compression
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,770 index.html
                1 File(s)        111,770 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-023-adapter-concurrency
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-023-adapter-concurrency
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,963 index.html
                1 File(s)        111,963 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-024-evidence-diffing
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-024-evidence-diffing
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,931 index.html
                1 File(s)        111,931 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-025-adapter-health-liveness
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-025-adapter-health-liveness
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,938 index.html
                1 File(s)        111,938 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-026-evidence-lifecycle-guarantees
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-026-evidence-lifecycle-guarantees
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,251 index.html
                1 File(s)        112,251 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\adr\adr-027-adapter-retirement
+ Directory of C:\Users\whale\src\uiao-docs\site\adr\adr-027-adapter-retirement
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,352 index.html
                1 File(s)        112,352 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -3976,7 +3976,7 @@
 04/08/2026  10:24 AM               254 README.qmd
                1 File(s)            254 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\a-adapter-plane
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\a-adapter-plane
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -3987,35 +3987,35 @@
 04/08/2026  10:24 AM           113,423 index.html
                1 File(s)        113,423 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\a-adapter-plane\a-01-adapter-lifecycle
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\a-adapter-plane\a-01-adapter-lifecycle
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,889 index.html
                1 File(s)        115,889 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\a-adapter-plane\a-02-adapter-sandbox-execution
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\a-adapter-plane\a-02-adapter-sandbox-execution
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,645 index.html
                1 File(s)        115,645 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\a-adapter-plane\a-03-adapter-hot-swap-rollback
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\a-adapter-plane\a-03-adapter-hot-swap-rollback
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,507 index.html
                1 File(s)        117,507 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\a-adapter-plane\a-04-adapter-health-liveness
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\a-adapter-plane\a-04-adapter-health-liveness
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,402 index.html
                1 File(s)        116,402 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\b-truth-fabric
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\b-truth-fabric
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4026,35 +4026,35 @@
 04/08/2026  10:24 AM           113,098 index.html
                1 File(s)        113,098 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\b-truth-fabric\b-01-canonical-claim-schema
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\b-truth-fabric\b-01-canonical-claim-schema
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           119,175 index.html
                1 File(s)        119,175 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\b-truth-fabric\b-02-identity-anchoring
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\b-truth-fabric\b-02-identity-anchoring
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,274 index.html
                1 File(s)        115,274 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\b-truth-fabric\b-03-multi-cloud-identity-matrix
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\b-truth-fabric\b-03-multi-cloud-identity-matrix
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           118,260 index.html
                1 File(s)        118,260 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\b-truth-fabric\b-04-control-mapping-governance
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\b-truth-fabric\b-04-control-mapping-governance
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,568 index.html
                1 File(s)        116,568 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\c-drift-fabric
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\c-drift-fabric
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4064,28 +4064,28 @@
 04/08/2026  10:24 AM           112,850 index.html
                1 File(s)        112,850 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\c-drift-fabric\c-01-drift-detection
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\c-drift-fabric\c-01-drift-detection
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,020 index.html
                1 File(s)        116,020 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\c-drift-fabric\c-02-drift-taxonomy
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\c-drift-fabric\c-02-drift-taxonomy
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,492 index.html
                1 File(s)        117,492 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\c-drift-fabric\c-03-vendor-failure-containment
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\c-drift-fabric\c-03-vendor-failure-containment
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,000 index.html
                1 File(s)        117,000 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\d-evidence-fabric
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\d-evidence-fabric
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4096,35 +4096,35 @@
 04/08/2026  10:24 AM           113,343 index.html
                1 File(s)        113,343 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\d-evidence-fabric\d-01-evidence-determinism
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\d-evidence-fabric\d-01-evidence-determinism
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,611 index.html
                1 File(s)        116,611 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\d-evidence-fabric\d-02-evidence-lifecycle
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\d-evidence-fabric\d-02-evidence-lifecycle
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,792 index.html
                1 File(s)        116,792 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\d-evidence-fabric\d-03-evidence-signing
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\d-evidence-fabric\d-03-evidence-signing
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,499 index.html
                1 File(s)        116,499 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\d-evidence-fabric\d-04-evidence-correlation
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\d-evidence-fabric\d-04-evidence-correlation
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,635 index.html
                1 File(s)        116,635 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\e-governance-plane
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\e-governance-plane
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4134,28 +4134,28 @@
 04/08/2026  10:24 AM           112,592 index.html
                1 File(s)        112,592 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\e-governance-plane\e-01-arb-coordination
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\e-governance-plane\e-01-arb-coordination
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,689 index.html
                1 File(s)        115,689 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\e-governance-plane\e-02-mission-partner-corridors
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\e-governance-plane\e-02-mission-partner-corridors
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,274 index.html
                1 File(s)        116,274 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\appendix\e-governance-plane\e-03-cross-fabric-consistency
+ Directory of C:\Users\whale\src\uiao-docs\site\appendix\e-governance-plane\e-03-cross-fabric-consistency
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,218 index.html
                1 File(s)        116,218 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\architecture
+ Directory of C:\Users\whale\src\uiao-docs\site\architecture
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4163,7 +4163,7 @@
 04/08/2026  10:24 AM             1,602 repo-structure.qmd
                2 File(s)          2,085 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\assets
+ Directory of C:\Users\whale\src\uiao-docs\site\assets
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4172,14 +4172,14 @@
 04/08/2026  10:24 AM    <DIR>          stylesheets
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\assets\images
+ Directory of C:\Users\whale\src\uiao-docs\site\assets\images
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM             1,870 favicon.png
                1 File(s)          1,870 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\assets\javascripts
+ Directory of C:\Users\whale\src\uiao-docs\site\assets\javascripts
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4189,7 +4189,7 @@
 04/08/2026  10:24 AM    <DIR>          workers
                2 File(s)      1,141,297 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\assets\javascripts\lunr
+ Directory of C:\Users\whale\src\uiao-docs\site\assets\javascripts\lunr
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4198,7 +4198,7 @@
 04/08/2026  10:24 AM           677,463 wordcut.js
                2 File(s)        700,341 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\assets\javascripts\lunr\min
+ Directory of C:\Users\whale\src\uiao-docs\site\assets\javascripts\lunr\min
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4236,7 +4236,7 @@
 04/08/2026  10:24 AM             2,158 lunr.zh.min.js
               32 File(s)        206,374 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\assets\javascripts\workers
+ Directory of C:\Users\whale\src\uiao-docs\site\assets\javascripts\workers
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4244,7 +4244,7 @@
 04/08/2026  10:24 AM           216,029 search.2c215733.min.js.map
                2 File(s)        255,510 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\assets\stylesheets
+ Directory of C:\Users\whale\src\uiao-docs\site\assets\stylesheets
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4254,7 +4254,7 @@
 04/08/2026  10:24 AM             3,670 palette.ab4e12ef.min.css.map
                4 File(s)        203,748 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\canon
+ Directory of C:\Users\whale\src\uiao-docs\site\canon
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4266,63 +4266,63 @@
 04/08/2026  10:24 AM    <DIR>          pdf-layout-spec
                1 File(s)        116,248 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\canon\canonical-rules
+ Directory of C:\Users\whale\src\uiao-docs\site\canon\canonical-rules
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,553 index.html
                1 File(s)        117,553 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\canon\corpus-status-dashboard
+ Directory of C:\Users\whale\src\uiao-docs\site\canon\corpus-status-dashboard
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           121,332 index.html
                1 File(s)        121,332 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\canon\glossary
+ Directory of C:\Users\whale\src\uiao-docs\site\canon\glossary
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           122,130 index.html
                1 File(s)        122,130 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\canon\migration-plan
+ Directory of C:\Users\whale\src\uiao-docs\site\canon\migration-plan
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           120,490 index.html
                1 File(s)        120,490 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\canon\pdf-layout-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\canon\pdf-layout-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           121,165 index.html
                1 File(s)        121,165 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\ci
+ Directory of C:\Users\whale\src\uiao-docs\site\ci
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM    <DIR>          TESTPLAN-metadata-validator
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\ci\TESTPLAN-metadata-validator
+ Directory of C:\Users\whale\src\uiao-docs\site\ci\TESTPLAN-metadata-validator
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,336 index.html
                1 File(s)        114,336 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\contributing
+ Directory of C:\Users\whale\src\uiao-docs\site\contributing
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           109,950 index.html
                1 File(s)        109,950 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\diagrams
+ Directory of C:\Users\whale\src\uiao-docs\site\diagrams
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4335,56 +4335,56 @@
 04/08/2026  10:24 AM    <DIR>          truth-fabric
                1 File(s)        108,646 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\diagrams\adapter-plane
+ Directory of C:\Users\whale\src\uiao-docs\site\diagrams\adapter-plane
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           110,034 index.html
                1 File(s)        110,034 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\diagrams\drift-fabric
+ Directory of C:\Users\whale\src\uiao-docs\site\diagrams\drift-fabric
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           109,973 index.html
                1 File(s)        109,973 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\diagrams\evidence-fabric
+ Directory of C:\Users\whale\src\uiao-docs\site\diagrams\evidence-fabric
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           110,167 index.html
                1 File(s)        110,167 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\diagrams\governance-hierarchy
+ Directory of C:\Users\whale\src\uiao-docs\site\diagrams\governance-hierarchy
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           110,058 index.html
                1 File(s)        110,058 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\diagrams\governance-plane
+ Directory of C:\Users\whale\src\uiao-docs\site\diagrams\governance-plane
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           110,172 index.html
                1 File(s)        110,172 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\diagrams\truth-fabric
+ Directory of C:\Users\whale\src\uiao-docs\site\diagrams\truth-fabric
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           110,243 index.html
                1 File(s)        110,243 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\documents
+ Directory of C:\Users\whale\src\uiao-docs\site\documents
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,861 index.html
                1 File(s)        108,861 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance
+ Directory of C:\Users\whale\src\uiao-docs\site\governance
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -4518,840 +4518,840 @@
 04/08/2026  10:24 AM           285,868 Visual Map of Where Everything Lives.png
                9 File(s)        392,638 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\audit-protocol
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\audit-protocol
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,111 index.html
                1 File(s)        107,111 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\automation-backlog
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\automation-backlog
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,033 index.html
                1 File(s)        117,033 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\automation-maturity-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\automation-maturity-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,866 index.html
                1 File(s)        111,866 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\automation-roadmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\automation-roadmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,102 index.html
                1 File(s)        107,102 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\bootstrap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\bootstrap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           119,291 index.html
                1 File(s)        119,291 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\charter-addendum-automation
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\charter-addendum-automation
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,136 index.html
                1 File(s)        107,136 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\charter-compliance-audit-checklist
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\charter-compliance-audit-checklist
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           119,320 index.html
                1 File(s)        119,320 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\charter-modernization-proposal
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\charter-modernization-proposal
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,806 index.html
                1 File(s)        115,806 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\communications-plan
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\communications-plan
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,130 index.html
                1 File(s)        107,130 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-integrity-verification-protocol
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-integrity-verification-protocol
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,304 index.html
                1 File(s)        115,304 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-audit-template
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-audit-template
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,753 index.html
                1 File(s)        116,753 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-enforcement-dashboard
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-enforcement-dashboard
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,028 index.html
                1 File(s)        114,028 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-enforcement-dashboard-visual
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-enforcement-dashboard-visual
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,225 index.html
                1 File(s)        115,225 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-enforcement-engine
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-enforcement-engine
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,722 index.html
                1 File(s)        114,722 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-enforcement-engine-visual
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-enforcement-engine-visual
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,159 index.html
                1 File(s)        116,159 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-enforcement-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-enforcement-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,815 index.html
                1 File(s)        114,815 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-maturity-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-maturity-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,995 index.html
                1 File(s)        111,995 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\corpus-normalization-roadmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\corpus-normalization-roadmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,645 index.html
                1 File(s)        112,645 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\cross-book-consistency-audit
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\cross-book-consistency-audit
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,258 index.html
                1 File(s)        115,258 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\dashboard-heatmap-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\dashboard-heatmap-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,319 index.html
                1 File(s)        112,319 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\dashboard-reliability-early-warning-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\dashboard-reliability-early-warning-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,433 index.html
                1 File(s)        114,433 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\dashboard-runtime-slo-sli-panel-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\dashboard-runtime-slo-sli-panel-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,427 index.html
                1 File(s)        114,427 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\dashboard-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\dashboard-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,725 index.html
                1 File(s)        114,725 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\dashboard-systemic-risk-early-warning
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\dashboard-systemic-risk-early-warning
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,128 index.html
                1 File(s)        114,128 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\dashboard-systemic-risk-panel-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\dashboard-systemic-risk-panel-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,259 index.html
                1 File(s)        115,259 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\dashboard-wireframe
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\dashboard-wireframe
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,444 index.html
                1 File(s)        112,444 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\day1-owner-quickstart
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\day1-owner-quickstart
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,126 index.html
                1 File(s)        107,126 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\drift-pattern-taxonomy
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\drift-pattern-taxonomy
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,141 index.html
                1 File(s)        107,141 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\drift-root-cause-analysis-template
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\drift-root-cause-analysis-template
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,198 index.html
                1 File(s)        115,198 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\escalation-communication-templates
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\escalation-communication-templates
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,165 index.html
                1 File(s)        107,165 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\escalation-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\escalation-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,382 index.html
                1 File(s)        117,382 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\faq
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\faq
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,058 index.html
                1 File(s)        107,058 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\glossary
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\glossary
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,077 index.html
                1 File(s)        107,077 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\governance-canon-dependency-graph
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\governance-canon-dependency-graph
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,607 index.html
                1 File(s)        112,607 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\governance-canon-glossary
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\governance-canon-glossary
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,425 index.html
                1 File(s)        117,425 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\governance-canon-integrity-report
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\governance-canon-integrity-report
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,422 index.html
                1 File(s)        116,422 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\governance-charter
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\governance-charter
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,112 index.html
                1 File(s)        107,112 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\governance-corpus-index
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\governance-corpus-index
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           119,835 index.html
                1 File(s)        119,835 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\governance-os-architecture
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\governance-os-architecture
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,805 index.html
                1 File(s)        115,805 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\governance-visual-atlas
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\governance-visual-atlas
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,343 index.html
                1 File(s)        116,343 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\handbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\handbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,683 index.html
                1 File(s)        115,683 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\intervention-decision-tree
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\intervention-decision-tree
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,153 index.html
                1 File(s)        107,153 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\intervention-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\intervention-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,146 index.html
                1 File(s)        107,146 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\intervention-severity-ladder
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\intervention-severity-ladder
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,498 index.html
                1 File(s)        111,498 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\maturity-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\maturity-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,116 index.html
                1 File(s)        107,116 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\maturity-progression-roadmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\maturity-progression-roadmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,027 index.html
                1 File(s)        112,027 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\maturity-self-assessment
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\maturity-self-assessment
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,132 index.html
                1 File(s)        107,132 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-drift-anomaly-detection-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-drift-anomaly-detection-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,378 index.html
                1 File(s)        114,378 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-drift-containment-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-drift-containment-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,241 index.html
                1 File(s)        114,241 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-drift-heatmap-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-drift-heatmap-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,561 index.html
                1 File(s)        113,561 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-drift-propagation-heatmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-drift-propagation-heatmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,436 index.html
                1 File(s)        112,436 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-drift-propagation-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-drift-propagation-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,264 index.html
                1 File(s)        116,264 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-drift-resilience-index
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-drift-resilience-index
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,886 index.html
                1 File(s)        113,886 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-governance-monte-carlo
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-governance-monte-carlo
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,022 index.html
                1 File(s)        116,022 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-governance-reliability-heatmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-governance-reliability-heatmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,809 index.html
                1 File(s)        114,809 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-governance-reliability-index
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-governance-reliability-index
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,416 index.html
                1 File(s)        113,416 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-governance-reliability-index-visual
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-governance-reliability-index-visual
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,490 index.html
                1 File(s)        114,490 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-governance-rl-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-governance-rl-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,018 index.html
                1 File(s)        113,018 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-governance-simulation-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-governance-simulation-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,023 index.html
                1 File(s)        116,023 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-lifecycle-diagram
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-lifecycle-diagram
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           110,294 index.html
                1 File(s)        110,294 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-normalization-strategy
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-normalization-strategy
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,166 index.html
                1 File(s)        107,166 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-quality-remediation-diagram
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-quality-remediation-diagram
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           110,598 index.html
                1 File(s)        110,598 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-quality-score
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-quality-score
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,147 index.html
                1 File(s)        107,147 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\metadata-remediation-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\metadata-remediation-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,163 index.html
                1 File(s)        107,163 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\notifications-webhook-schema
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\notifications-webhook-schema
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,290 index.html
                1 File(s)        112,290 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\onboarding-certification-exam
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\onboarding-certification-exam
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,149 index.html
                1 File(s)        107,149 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\onboarding-quiz
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\onboarding-quiz
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,116 index.html
                1 File(s)        107,116 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\onboarding-workbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\onboarding-workbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,116 index.html
                1 File(s)        107,116 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\operating-model-diagram
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\operating-model-diagram
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,140 index.html
                1 File(s)        107,140 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\operating-model-onepager
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\operating-model-onepager
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,137 index.html
                1 File(s)        107,137 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\operating-rhythm
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\operating-rhythm
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,120 index.html
                1 File(s)        107,120 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\owner-reliability-score
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\owner-reliability-score
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,687 index.html
                1 File(s)        112,687 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\performance-dashboard-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\performance-dashboard-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,139 index.html
                1 File(s)        107,139 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\performance-scorecard
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\performance-scorecard
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,134 index.html
                1 File(s)        107,134 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\policy-compliance-checklist
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\policy-compliance-checklist
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,127 index.html
                1 File(s)        107,127 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\quarterly-executive-briefing-outline
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\quarterly-executive-briefing-outline
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,411 index.html
                1 File(s)        114,411 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\quarterly-review-template
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\quarterly-review-template
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,130 index.html
                1 File(s)        107,130 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\red-flags-guide
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\red-flags-guide
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,116 index.html
                1 File(s)        107,116 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\reliability-early-warning-heatmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\reliability-early-warning-heatmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,886 index.html
                1 File(s)        112,886 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\reliability-forecasting-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\reliability-forecasting-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,146 index.html
                1 File(s)        107,146 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\reliability-score-decomposition-diagram
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\reliability-score-decomposition-diagram
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,827 index.html
                1 File(s)        112,827 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\reliability-scorecard-visual
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\reliability-scorecard-visual
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,519 index.html
                1 File(s)        111,519 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\risk-early-warning-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\risk-early-warning-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,045 index.html
                1 File(s)        115,045 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\risk-heatmap-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\risk-heatmap-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,114 index.html
                1 File(s)        107,114 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\risk-register-template
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\risk-register-template
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,128 index.html
                1 File(s)        107,128 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-architecture
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-architecture
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,738 index.html
                1 File(s)        114,738 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-chaos-engineering-test-plan
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-chaos-engineering-test-plan
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,539 index.html
                1 File(s)        115,539 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-chaos-resilience-dashboard
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-chaos-resilience-dashboard
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,202 index.html
                1 File(s)        113,202 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-dataflow
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-dataflow
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,320 index.html
                1 File(s)        112,320 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-dependency-chaos-matrix
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-dependency-chaos-matrix
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           111,968 index.html
                1 File(s)        111,968 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-dependency-failure-matrix
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-dependency-failure-matrix
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,465 index.html
                1 File(s)        112,465 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-dependency-map
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-dependency-map
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,186 index.html
                1 File(s)        115,186 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-dependency-observability-map
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-dependency-observability-map
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,303 index.html
                1 File(s)        113,303 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-dependency-resilience-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-dependency-resilience-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,056 index.html
                1 File(s)        114,056 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-deploy
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-deploy
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,888 index.html
                1 File(s)        115,888 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-failure-mode-dependency-graph
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-failure-mode-dependency-graph
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,877 index.html
                1 File(s)        112,877 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-failure-mode-simulation-suite
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-failure-mode-simulation-suite
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,227 index.html
                1 File(s)        116,227 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-healthchecks
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-healthchecks
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,110 index.html
                1 File(s)        112,110 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-observability-dashboard
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-observability-dashboard
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,598 index.html
                1 File(s)        113,598 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-observability-plan
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-observability-plan
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,747 index.html
                1 File(s)        114,747 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-resilience-dashboard-visual
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-resilience-dashboard-visual
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,315 index.html
                1 File(s)        116,315 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-resilience-heatmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-resilience-heatmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,347 index.html
                1 File(s)        116,347 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\runtime-slo-sli-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\runtime-slo-sli-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,693 index.html
                1 File(s)        115,693 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\schema-change-impact-analysis-template
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\schema-change-impact-analysis-template
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,221 index.html
                1 File(s)        115,221 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\schema-evolution-plan
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\schema-evolution-plan
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,139 index.html
                1 File(s)        107,139 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\schema-evolution-simulator
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\schema-evolution-simulator
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,233 index.html
                1 File(s)        115,233 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\steward-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\steward-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,115 index.html
                1 File(s)        107,115 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-drift-clustering-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-drift-clustering-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,113 index.html
                1 File(s)        114,113 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-drift-diagnostic-guide
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-drift-diagnostic-guide
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,164 index.html
                1 File(s)        107,164 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-drift-early-warning-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-drift-early-warning-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,180 index.html
                1 File(s)        116,180 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-risk-diagnostic-engine
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-risk-diagnostic-engine
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,765 index.html
                1 File(s)        115,765 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-risk-early-warning-engine
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-risk-early-warning-engine
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,192 index.html
                1 File(s)        115,192 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-risk-forecasting-model
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-risk-forecasting-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,713 index.html
                1 File(s)        115,713 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-risk-propagation-engine
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-risk-propagation-engine
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           115,527 index.html
                1 File(s)        115,527 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-risk-propagation-engine-visual
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-risk-propagation-engine-visual
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           112,625 index.html
                1 File(s)        112,625 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-risk-propagation-heatmap
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-risk-propagation-heatmap
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           113,138 index.html
                1 File(s)        113,138 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\systemic-risk-propagation-simulator
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\systemic-risk-propagation-simulator
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           118,016 index.html
                1 File(s)        118,016 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\training-curriculum
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\training-curriculum
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,122 index.html
                1 File(s)        107,122 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\governance\training-deck-outline
+ Directory of C:\Users\whale\src\uiao-docs\site\governance\training-deck-outline
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           107,124 index.html
                1 File(s)        107,124 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\images
+ Directory of C:\Users\whale\src\uiao-docs\site\images
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -5385,14 +5385,14 @@
 04/08/2026  10:24 AM         7,042,756 unified_arch.png
               28 File(s)    140,350,376 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\javascripts
+ Directory of C:\Users\whale\src\uiao-docs\site\javascripts
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM               420 download.js
                1 File(s)            420 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\meta
+ Directory of C:\Users\whale\src\uiao-docs\site\meta
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -5404,49 +5404,49 @@
 04/08/2026  10:24 AM    <DIR>          uiao-document-metadata-contract
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\meta\adr-metadata-contract
+ Directory of C:\Users\whale\src\uiao-docs\site\meta\adr-metadata-contract
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,993 index.html
                1 File(s)        117,993 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\meta\governance-metadata-playbook
+ Directory of C:\Users\whale\src\uiao-docs\site\meta\governance-metadata-playbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           124,706 index.html
                1 File(s)        124,706 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\meta\governance-metadata-reviewer-checklist
+ Directory of C:\Users\whale\src\uiao-docs\site\meta\governance-metadata-reviewer-checklist
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           120,876 index.html
                1 File(s)        120,876 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\meta\metadata-drift-detection-report
+ Directory of C:\Users\whale\src\uiao-docs\site\meta\metadata-drift-detection-report
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,677 index.html
                1 File(s)        117,677 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\meta\uiao-adr-metadata-contract
+ Directory of C:\Users\whale\src\uiao-docs\site\meta\uiao-adr-metadata-contract
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           118,611 index.html
                1 File(s)        118,611 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\meta\uiao-document-metadata-contract
+ Directory of C:\Users\whale\src\uiao-docs\site\meta\uiao-document-metadata-contract
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           123,831 index.html
                1 File(s)        123,831 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\onboarding
+ Directory of C:\Users\whale\src\uiao-docs\site\onboarding
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -5455,49 +5455,49 @@
 04/08/2026  10:24 AM               428 README.qmd
                2 File(s)        108,375 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\onboarding\adapter-developer-guide
+ Directory of C:\Users\whale\src\uiao-docs\site\onboarding\adapter-developer-guide
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,946 index.html
                1 File(s)        108,946 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\patterns
+ Directory of C:\Users\whale\src\uiao-docs\site\patterns
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM               408 README.qmd
                1 File(s)            408 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\request-export
+ Directory of C:\Users\whale\src\uiao-docs\site\request-export
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           109,527 index.html
                1 File(s)        109,527 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\SCuBA-Maintainer-Onboarding
+ Directory of C:\Users\whale\src\uiao-docs\site\SCuBA-Maintainer-Onboarding
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           114,306 index.html
                1 File(s)        114,306 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\SCuBA-Pipeline-Runbook
+ Directory of C:\Users\whale\src\uiao-docs\site\SCuBA-Pipeline-Runbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           120,147 index.html
                1 File(s)        120,147 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\search
+ Directory of C:\Users\whale\src\uiao-docs\site\search
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           694,022 search_index.json
                1 File(s)        694,022 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\stylesheets
+ Directory of C:\Users\whale\src\uiao-docs\site\stylesheets
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
@@ -5505,259 +5505,259 @@
 04/08/2026  10:24 AM             1,494 uiao.css
                2 File(s)          2,380 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-apex-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-apex-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,674 index.html
                1 File(s)        117,674 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-api-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-api-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           124,680 index.html
                1 File(s)        124,680 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-atlas
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-atlas
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,054 index.html
                1 File(s)        108,054 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-aurora-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-aurora-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           122,597 index.html
                1 File(s)        122,597 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-black-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-black-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           121,985 index.html
                1 File(s)        121,985 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-black-sky-protocol
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-black-sky-protocol
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,110 index.html
                1 File(s)        108,110 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-blue-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-blue-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           120,088 index.html
                1 File(s)        120,088 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-canon
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-canon
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           119,476 index.html
                1 File(s)        119,476 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-canon-index
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-canon-index
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,083 index.html
                1 File(s)        108,083 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-codex
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-codex
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           116,577 index.html
                1 File(s)        116,577 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-continuity-charter
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-continuity-charter
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,106 index.html
                1 File(s)        108,106 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-continuum-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-continuum-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           118,903 index.html
                1 File(s)        118,903 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-crystal-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-crystal-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           123,987 index.html
                1 File(s)        123,987 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-diamond-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-diamond-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           126,379 index.html
                1 File(s)        126,379 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-eclipse-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-eclipse-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           122,339 index.html
                1 File(s)        122,339 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-emergency-codex
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-emergency-codex
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,093 index.html
                1 File(s)        108,093 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-encyclopedia
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-encyclopedia
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,082 index.html
                1 File(s)        108,082 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-eternity-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-eternity-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           118,059 index.html
                1 File(s)        118,059 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-executive-briefing-deck
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-executive-briefing-deck
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           123,110 index.html
                1 File(s)        123,110 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-green-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-green-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           121,271 index.html
                1 File(s)        121,271 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-helix-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-helix-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           120,900 index.html
                1 File(s)        120,900 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-machine-spec
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-machine-spec
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,087 index.html
                1 File(s)        108,087 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-nova-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-nova-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           121,565 index.html
                1 File(s)        121,565 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-obsidian-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-obsidian-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           120,937 index.html
                1 File(s)        120,937 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-omega-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-omega-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,979 index.html
                1 File(s)        117,979 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-operators-manual
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-operators-manual
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,096 index.html
                1 File(s)        108,096 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-paradox-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-paradox-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           118,777 index.html
                1 File(s)        118,777 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-platinum-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-platinum-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           121,291 index.html
                1 File(s)        121,291 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-prime-model
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-prime-model
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,073 index.html
                1 File(s)        108,073 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-quantum-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-quantum-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           122,274 index.html
                1 File(s)        122,274 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-red-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-red-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           119,278 index.html
                1 File(s)        119,278 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-runbook
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-runbook
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,072 index.html
                1 File(s)        108,072 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-runtime-bible
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-runtime-bible
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           108,085 index.html
                1 File(s)        108,085 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-singularity-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-singularity-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           118,690 index.html
                1 File(s)        118,690 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\uiao-governance-void-book
+ Directory of C:\Users\whale\src\uiao-docs\site\uiao-governance-void-book
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM           117,355 index.html
                1 File(s)        117,355 bytes
 
- Directory of C:\Users\whale\uiao-docs\site\user-guides
+ Directory of C:\Users\whale\src\uiao-docs\site\user-guides
 
 04/08/2026  10:24 AM    <DIR>          .
 04/08/2026  10:24 AM    <DIR>          ..
 04/08/2026  10:24 AM               378 README.qmd
                1 File(s)            378 bytes
 
- Directory of C:\Users\whale\uiao-docs\tools
+ Directory of C:\Users\whale\src\uiao-docs\tools
 
 04/09/2026  11:43 AM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..
@@ -5768,7 +5768,7 @@
 04/07/2026  07:21 PM             2,293 uiao-governance-cli.js
                5 File(s)         56,641 bytes
 
- Directory of C:\Users\whale\uiao-docs\_site
+ Directory of C:\Users\whale\src\uiao-docs\_site
 
 04/03/2026  02:59 PM    <DIR>          .
 04/09/2026  11:45 AM    <DIR>          ..

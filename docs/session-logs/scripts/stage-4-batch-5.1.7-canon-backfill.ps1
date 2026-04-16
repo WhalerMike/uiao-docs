@@ -24,8 +24,8 @@
 # =============================================================================
 
 $ErrorActionPreference = 'Stop'
-$CoreDir     = 'C:\Users\whale\uiao-core'
-$DocsDir     = 'C:\Users\whale\uiao-docs'
+$CoreDir     = 'C:\Users\whale\src\uiao-core'
+$DocsDir     = 'C:\Users\whale\src\uiao-docs'
 $Driver      = Join-Path $DocsDir 'docs\session-logs\scripts\canon_backfill.py'
 $CanonDir    = Join-Path $CoreDir 'canon'
 $RegistryOut = Join-Path $CanonDir 'document-registry.yaml'
@@ -218,8 +218,8 @@ try {
     Write-OK 'Commit created locally. Review with: git show HEAD --stat'
     Write-Host ''
     Write-Host 'Next steps (manual):' -ForegroundColor Yellow
-    Write-Host '  git -C C:\Users\whale\uiao-core pull --rebase origin main' -ForegroundColor Yellow
-    Write-Host '  git -C C:\Users\whale\uiao-core push origin main' -ForegroundColor Yellow
+    Write-Host '  git -C C:\Users\whale\src\uiao-core pull --rebase origin main' -ForegroundColor Yellow
+    Write-Host '  git -C C:\Users\whale\src\uiao-core push origin main' -ForegroundColor Yellow
     Write-Host ''
     Write-Host 'After push:' -ForegroundColor Yellow
     Write-Host '  5.1.8 - surgical frontmatter fix for UIAO_002 (blocking drops to 0)' -ForegroundColor Yellow

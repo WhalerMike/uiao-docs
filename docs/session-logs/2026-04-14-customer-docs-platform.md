@@ -114,7 +114,7 @@ The full pre-compaction transcript is preserved in:
 **Commit hand-off (PowerShell):**
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git add docs/session-logs/
 git commit -m "[UIAO-DOCS] CREATE: docs/session-logs/ — session-log convention + 2026-04-14 customer-docs-platform log"
 git push
@@ -192,13 +192,13 @@ git push
 
 ```powershell
 # uiao-core — Step 0a registries + schema + ARCHITECTURE.md dual-axis
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git add schemas/adapter-registry/ canon/adapter-registry.yaml canon/modernization-registry.yaml ARCHITECTURE.md
 git commit -m "[UIAO-CORE] CREATE: Step 0a — adapter registries (dual-axis taxonomy) + ARCHITECTURE.md v0.5.0"
 git push
 
 # uiao-docs — session log append
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git add docs/session-logs/2026-04-14-customer-docs-platform.md docs/session-logs/2026-04-14-customer-docs-platform.docx
 git commit -m "[UIAO-DOCS] LOG: append Turn 4-5 — Step 0a adapter registries landed"
 git push
@@ -268,14 +268,14 @@ git push
 
 ```powershell
 # uiao-core — Step 0b sync tooling + dispatcher workflow
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git add tools/sync_canon.py tools/requirements.txt tools/README.md `
         .github/workflows/canon-sync-dispatch.yml
 git commit -m "[UIAO-CORE] CREATE: Step 0b — sync_canon.py + dispatch workflow (cross-repo canon propagation)"
 git push
 
 # uiao-docs — receiver workflow + 27 scaffolded adapter doc folders + session log append
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git add .github/workflows/canon-sync-receive.yml `
         docs/customer-documents/adapter-technical-specifications/ `
         docs/customer-documents/adapter-validation-suites/ `
@@ -369,12 +369,12 @@ Decision: **defer to Phase D next session.** Finish C3 and hand off the combined
 
 ## Hand-off — combined commit batch (your side)
 
-Run from `C:\Users\whale\uiao-core` then `C:\Users\whale\uiao-docs` in sequence. Each block is copy/paste-ready.
+Run from `C:\Users\whale\src\uiao-core` then `C:\Users\whale\src\uiao-docs` in sequence. Each block is copy/paste-ready.
 
 ### Block 1 — uiao-core (sync_canon.py .qmd upgrade)
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git pull --rebase origin main
 git add tools/sync_canon.py
 git commit -m "[UIAO-CORE] UPDATE: sync_canon.py — emit .qmd scaffolds + legacy-orphan detection"
@@ -384,7 +384,7 @@ git push
 ### Block 2 — uiao-docs (new .qmd scaffolds, Master Documents, image pipeline, session log, remove legacy .md)
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git pull --rebase origin main
 
 # Remove 18 legacy .md scaffolds that sync_canon.py now flags as legacy-orphan

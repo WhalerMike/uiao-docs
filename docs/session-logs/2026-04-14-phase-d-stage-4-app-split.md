@@ -123,7 +123,7 @@ Happens on Michael's side via GitHub web UI or `gh repo create WhalerMike/uiao-i
 ### Batch 4.1 — Populate `uiao-impl` from `uiao-core` tree
 
 PowerShell block on Michael's machine:
-1. `cd C:\Users\whale\uiao-impl`
+1. `cd C:\Users\whale\src\uiao-impl`
 2. Copy `src/uiao_core/` → `src/uiao_impl/`
 3. Copy `adapters/`, `scripts/`, `tests/`, `cli/`, `compliance/`, `orchestrator/`
 4. Copy `inject_ssp.py`, `write_engine.py`

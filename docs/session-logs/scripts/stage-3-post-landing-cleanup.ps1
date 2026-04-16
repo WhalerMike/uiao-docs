@@ -10,7 +10,7 @@ $ErrorActionPreference = 'Stop'
 # Part A — uiao-docs: let the three branded deliverables be tracked
 # ------------------------------------------------------------------
 
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 
 Write-Host "--- Pre-flight: uiao-docs ---" -ForegroundColor Cyan
 git status
@@ -45,7 +45,7 @@ git push
 # Part B — uiao-core: purge filesystem-only cruft
 # ------------------------------------------------------------------
 
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 
 Write-Host "--- Removing untracked branded DOCX and plantuml.jar from uiao-core working tree ---" -ForegroundColor Cyan
 Remove-Item -Force -ErrorAction SilentlyContinue `

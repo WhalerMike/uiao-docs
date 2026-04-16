@@ -27,7 +27,7 @@
 # =============================================================================
 
 $ErrorActionPreference = 'Stop'
-$CoreDir    = 'C:\Users\whale\uiao-core'
+$CoreDir    = 'C:\Users\whale\src\uiao-core'
 $SchemaPath = Join-Path $CoreDir 'schemas\metadata-schema.json'
 
 function Write-Step($msg) { Write-Host "`n>>> $msg" -ForegroundColor Cyan }
@@ -266,7 +266,7 @@ except Exception as e:
     Write-Host ''
     Write-OK 'Commit created locally. Review with: git show HEAD'
     Write-Host 'Next step (manual):' -ForegroundColor Yellow
-    Write-Host '  git -C C:\Users\whale\uiao-core push origin main' -ForegroundColor Yellow
+    Write-Host '  git -C C:\Users\whale\src\uiao-core push origin main' -ForegroundColor Yellow
     Write-Host ''
     Write-Host 'After push, ready for:' -ForegroundColor Yellow
     Write-Host '  5.1.7 — document_id assignment + frontmatter stubs for the 22 no-frontmatter files' -ForegroundColor Yellow

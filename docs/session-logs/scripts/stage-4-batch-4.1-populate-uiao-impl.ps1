@@ -4,7 +4,7 @@
 # -----------------------------------------------------------------------------
 # Prereqs:
 #   - Batch 4.0 already committed+pushed on uiao-impl.
-#   - uiao-core clone at C:\Users\whale\uiao-core is at HEAD 02af2e63 or later,
+#   - uiao-core clone at C:\Users\whale\src\uiao-core is at HEAD 02af2e63 or later,
 #     working tree clean (verify with: git status).
 # What this does:
 #   - Copies Bucket A (Python app code) from uiao-core -> uiao-impl WITHOUT

@@ -12,10 +12,10 @@
     mkdocs.yml is backed up with a timestamp before replacement.
 
 .PARAMETER DocsRoot
-    Path to local uiao-docs repo root. Default: C:\Users\whale\uiao-docs
+    Path to local uiao-docs repo root. Default: C:\Users\whale\src\uiao-docs
 
 .PARAMETER CoreRoot
-    Path to local uiao-core repo root. Default: C:\Users\whale\uiao-core
+    Path to local uiao-core repo root. Default: C:\Users\whale\src\uiao-core
 
 .PARAMETER WhatIf
     Preview all actions without writing anything.
@@ -28,8 +28,8 @@
 
 [CmdletBinding(SupportsShouldProcess)]
 param(
-    [string]$DocsRoot = "C:\Users\whale\uiao-docs",
-    [string]$CoreRoot = "C:\Users\whale\uiao-core"
+    [string]$DocsRoot = "C:\Users\whale\src\uiao-docs",
+    [string]$CoreRoot = "C:\Users\whale\src\uiao-core"
 )
 
 Set-StrictMode -Version Latest

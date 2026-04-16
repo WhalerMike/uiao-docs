@@ -29,8 +29,8 @@
 # =============================================================================
 
 $ErrorActionPreference = 'Stop'
-$CoreDir  = 'C:\Users\whale\uiao-core'
-$DocsDir  = 'C:\Users\whale\uiao-docs'
+$CoreDir  = 'C:\Users\whale\src\uiao-core'
+$DocsDir  = 'C:\Users\whale\src\uiao-docs'
 $Driver   = Join-Path $DocsDir 'docs\session-logs\scripts\fix_uiao_002.py'
 $Target   = Join-Path $CoreDir 'canon\UIAO_002_SCuBA_Technical_Specification_v1.0.md'
 
@@ -195,8 +195,8 @@ metadata cleanup and unblocks 5.2 branch protection.
     Write-OK 'Commit created locally. Review with: git show HEAD --stat'
     Write-Host ''
     Write-Host 'Next steps (manual):' -ForegroundColor Yellow
-    Write-Host '  git -C C:\Users\whale\uiao-core pull --rebase origin main' -ForegroundColor Yellow
-    Write-Host '  git -C C:\Users\whale\uiao-core push origin main' -ForegroundColor Yellow
+    Write-Host '  git -C C:\Users\whale\src\uiao-core pull --rebase origin main' -ForegroundColor Yellow
+    Write-Host '  git -C C:\Users\whale\src\uiao-core push origin main' -ForegroundColor Yellow
     Write-Host ''
     Write-Host 'After push:' -ForegroundColor Yellow
     Write-Host '  5.2 - branch protection: require metadata-validator as a required' -ForegroundColor Yellow

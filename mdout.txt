@@ -1,7 +1,7 @@
  Volume in drive C has no label.
  Volume Serial Number is 205D-C010
 
- Directory of C:\Users\whale\uiao-docs
+ Directory of C:\Users\whale\src\uiao-docs
 
 04/12/2026  02:22 PM            16,277 CHANGELOG.md
 04/12/2026  02:22 PM             3,575 CLAUDE.md
@@ -11,7 +11,7 @@
 04/12/2026  02:22 PM             5,161 SUMMARY.md
                6 File(s)         34,754 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\agents
+ Directory of C:\Users\whale\src\uiao-docs\.claude\agents
 
 04/12/2026  02:22 PM             1,803 docs-appendix-manager.md
 04/12/2026  02:22 PM             2,062 docs-dashboard-exporter.md
@@ -20,7 +20,7 @@
 04/12/2026  02:22 PM             2,121 docs-publisher.md
                5 File(s)         10,465 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\commands
+ Directory of C:\Users\whale\src\uiao-docs\.claude\commands
 
 04/12/2026  02:22 PM             1,211 export-dashboard.md
 04/12/2026  02:22 PM             1,085 scan-drift.md
@@ -28,7 +28,7 @@
 04/12/2026  02:22 PM             1,374 validate-metadata.md
                4 File(s)          4,669 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\rules
+ Directory of C:\Users\whale\src\uiao-docs\.claude\rules
 
 04/12/2026  02:22 PM             1,676 boundary-enforcement.md
 04/12/2026  02:22 PM             1,437 canon-stewardship.md
@@ -36,7 +36,7 @@
 04/12/2026  02:22 PM             1,648 no-hallucination.md
                4 File(s)          6,871 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\skills
+ Directory of C:\Users\whale\src\uiao-docs\.claude\skills
 
 04/12/2026  02:22 PM             1,888 appendix-indexing.md
 04/12/2026  02:22 PM             2,311 dashboard-export.md
@@ -44,7 +44,7 @@
 04/12/2026  02:22 PM             2,297 metadata-validation.md
                4 File(s)          8,714 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli
 
 04/12/2026  01:42 PM            16,383 CHANGELOG.md
 04/12/2026  01:42 PM             3,633 CLAUDE.md
@@ -54,7 +54,7 @@
 04/12/2026  01:42 PM             5,241 SUMMARY.md
                6 File(s)         35,252 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\agents
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\agents
 
 04/09/2026  11:43 AM             1,839 docs-appendix-manager.md
 04/09/2026  11:43 AM             2,096 docs-dashboard-exporter.md
@@ -63,7 +63,7 @@
 04/09/2026  11:43 AM             2,172 docs-publisher.md
                5 File(s)         10,665 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\commands
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\commands
 
 04/09/2026  11:43 AM             1,238 export-dashboard.md
 04/09/2026  11:43 AM             1,111 scan-drift.md
@@ -71,7 +71,7 @@
 04/09/2026  11:43 AM             1,402 validate-metadata.md
                4 File(s)          4,773 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\rules
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\rules
 
 04/09/2026  11:43 AM             1,707 boundary-enforcement.md
 04/09/2026  11:43 AM             1,463 canon-stewardship.md
@@ -79,7 +79,7 @@
 04/09/2026  11:43 AM             1,667 no-hallucination.md
                4 File(s)          6,969 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\skills
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\.claude\skills
 
 04/09/2026  11:43 AM             1,923 appendix-indexing.md
 04/09/2026  11:43 AM             2,354 dashboard-export.md
@@ -87,23 +87,23 @@
 04/09/2026  11:43 AM             2,344 metadata-validation.md
                4 File(s)          8,888 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\.github
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\.github
 
 04/12/2026  01:42 PM             1,672 PULL_REQUEST_TEMPLATE.md
                1 File(s)          1,672 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\.github\ISSUE_TEMPLATE
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\.github\ISSUE_TEMPLATE
 
 04/12/2026  01:42 PM             1,317 weekly-metadata-drift.md
                1 File(s)          1,317 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\.github\PULL_REQUEST_TEMPLATE
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\.github\PULL_REQUEST_TEMPLATE
 
 04/12/2026  01:42 PM             2,056 migration-metadata.md
 04/12/2026  01:42 PM             2,260 remediation-metadata.md
                2 File(s)          4,316 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\appendices
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\appendices
 
 04/12/2026  01:42 PM             3,103 Appendix-B-UIAO-SCuBA-Pipeline.md
 04/12/2026  01:42 PM             1,425 Appendix-C-KSI-Mapping-Tables.md
@@ -111,12 +111,12 @@
 04/12/2026  01:42 PM             5,102 Appendix-E-SCuBA-Field-Dictionary.md
                4 File(s)         12,789 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\ato
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\ato
 
 04/12/2026  01:42 PM             1,093 UIAO-ATO-Package-Template.md
                1 File(s)          1,093 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs
 
 04/12/2026  01:42 PM             2,662 access.md
 04/12/2026  01:42 PM            20,008 cli-reference.md
@@ -162,7 +162,7 @@
 04/12/2026  01:42 PM             4,133 uiao-governance-void-book.md
               42 File(s)        161,003 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\adr
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\adr
 
 04/12/2026  01:42 PM             2,692 adr-000-adr-process.md
 04/12/2026  01:42 PM             2,099 adr-005-canonical-claim-schema.md
@@ -191,7 +191,7 @@
 04/12/2026  01:42 PM             3,998 index.md
               25 File(s)         41,497 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\a-adapter-plane
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\a-adapter-plane
 
 04/12/2026  01:42 PM             3,687 a-01-adapter-lifecycle.md
 04/12/2026  01:42 PM             3,413 a-02-adapter-sandbox-execution.md
@@ -200,7 +200,7 @@
 04/12/2026  01:42 PM             2,756 index.md
                5 File(s)         17,036 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\b-truth-fabric
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\b-truth-fabric
 
 04/12/2026  01:42 PM             3,592 b-01-canonical-claim-schema.md
 04/12/2026  01:42 PM             3,098 b-02-identity-anchoring.md
@@ -209,7 +209,7 @@
 04/12/2026  01:42 PM             2,443 index.md
                5 File(s)         17,029 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\c-drift-fabric
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\c-drift-fabric
 
 04/12/2026  01:42 PM             3,770 c-01-drift-detection.md
 04/12/2026  01:42 PM             4,002 c-02-drift-taxonomy.md
@@ -217,7 +217,7 @@
 04/12/2026  01:42 PM             2,224 index.md
                4 File(s)         14,181 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\d-evidence-fabric
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\d-evidence-fabric
 
 04/12/2026  01:42 PM             3,244 d-01-evidence-determinism.md
 04/12/2026  01:42 PM             3,628 d-02-evidence-lifecycle.md
@@ -226,7 +226,7 @@
 04/12/2026  01:42 PM             2,636 index.md
                5 File(s)         17,398 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\e-governance-plane
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\appendix\e-governance-plane
 
 04/12/2026  01:42 PM             3,330 e-01-arb-coordination.md
 04/12/2026  01:42 PM             3,695 e-02-mission-partner-corridors.md
@@ -234,7 +234,7 @@
 04/12/2026  01:42 PM             2,005 index.md
                4 File(s)         13,009 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\canon
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\canon
 
 04/12/2026  01:42 PM             5,490 canonical-rules.md
 04/12/2026  01:42 PM             4,732 corpus-status-dashboard.md
@@ -244,12 +244,12 @@
 04/12/2026  01:42 PM             5,209 pdf-layout-spec.md
                6 File(s)         33,549 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\ci
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\ci
 
 04/12/2026  01:42 PM             2,077 TESTPLAN-metadata-validator.md
                1 File(s)          2,077 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\diagrams
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\diagrams
 
 04/12/2026  01:42 PM             1,088 adapter-plane.md
 04/12/2026  01:42 PM             1,032 drift-fabric.md
@@ -260,12 +260,12 @@
 04/12/2026  01:42 PM             1,264 truth-fabric.md
                7 File(s)          7,454 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\documents
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\documents
 
 04/12/2026  01:42 PM               564 index.md
                1 File(s)            564 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\governance
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\governance
 
 04/12/2026  01:42 PM                 2 audit-protocol.md
 04/12/2026  01:42 PM             2,102 automation-backlog.md
@@ -388,7 +388,7 @@
 04/12/2026  01:42 PM                 2 training-deck-outline.md
              119 File(s)        189,827 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\meta
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\meta
 
 04/12/2026  01:42 PM             3,308 adr-metadata-contract.md
 04/12/2026  01:42 PM             6,028 governance-metadata-playbook.md
@@ -398,54 +398,54 @@
 04/12/2026  01:42 PM             4,829 uiao-document-metadata-contract.md
                6 File(s)         21,998 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\docs\onboarding
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\docs\onboarding
 
 04/12/2026  01:42 PM               252 adapter-developer-guide.md
 04/12/2026  01:42 PM               106 index.md
                2 File(s)            358 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\narrative
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\narrative
 
 04/12/2026  01:42 PM             6,406 UIAO-Narrative-Layer.md
                1 File(s)          6,406 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\productization
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\productization
 
 04/12/2026  01:42 PM             3,364 UIAO-Productization-Layer.md
                1 File(s)          3,364 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\reports
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\reports
 
 04/12/2026  01:42 PM             3,749 SCuBA-Canonical-Report.md
                1 File(s)          3,749 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\runbook
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\runbook
 
 04/12/2026  01:42 PM             6,378 UIAO-Operational-Runbook.md
                1 File(s)          6,378 bytes
 
- Directory of C:\Users\whale\uiao-docs\.claude\worktrees\trusting-antonelli\security
+ Directory of C:\Users\whale\src\uiao-docs\.claude\worktrees\trusting-antonelli\security
 
 04/12/2026  01:42 PM             7,179 UIAO-Security-Architecture.md
                1 File(s)          7,179 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github
+ Directory of C:\Users\whale\src\uiao-docs\.github
 
 04/12/2026  02:22 PM             1,622 PULL_REQUEST_TEMPLATE.md
                1 File(s)          1,622 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github\ISSUE_TEMPLATE
+ Directory of C:\Users\whale\src\uiao-docs\.github\ISSUE_TEMPLATE
 
 04/12/2026  02:22 PM             1,269 weekly-metadata-drift.md
                1 File(s)          1,269 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github\PULL_REQUEST_TEMPLATE
+ Directory of C:\Users\whale\src\uiao-docs\.github\PULL_REQUEST_TEMPLATE
 
 04/12/2026  02:22 PM             1,983 migration-metadata.md
 04/12/2026  02:22 PM             2,187 remediation-metadata.md
                2 File(s)          4,170 bytes
 
- Directory of C:\Users\whale\uiao-docs\appendices
+ Directory of C:\Users\whale\src\uiao-docs\appendices
 
 04/12/2026  02:22 PM             2,987 Appendix-B-UIAO-SCuBA-Pipeline.md
 04/12/2026  02:22 PM             1,394 Appendix-C-KSI-Mapping-Tables.md
@@ -453,12 +453,12 @@
 04/12/2026  02:22 PM             4,990 Appendix-E-SCuBA-Field-Dictionary.md
                4 File(s)         12,456 bytes
 
- Directory of C:\Users\whale\uiao-docs\ato
+ Directory of C:\Users\whale\src\uiao-docs\ato
 
 04/12/2026  02:22 PM             1,029 UIAO-ATO-Package-Template.md
                1 File(s)          1,029 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs
+ Directory of C:\Users\whale\src\uiao-docs\docs
 
 04/12/2026  02:22 PM             2,572 access.md
 04/11/2026  02:47 PM            14,171 adapter-development-guide.md
@@ -512,7 +512,7 @@
 04/12/2026  02:23 PM             3,962 uiao-governance-void-book.md
               50 File(s)        313,236 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\adr
+ Directory of C:\Users\whale\src\uiao-docs\docs\adr
 
 04/12/2026  02:22 PM             2,601 adr-000-adr-process.md
 04/12/2026  02:22 PM             2,053 adr-005-canonical-claim-schema.md
@@ -541,7 +541,7 @@
 04/12/2026  02:22 PM             3,921 index.md
               25 File(s)         40,498 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\a-adapter-plane
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\a-adapter-plane
 
 04/12/2026  02:22 PM             3,622 a-01-adapter-lifecycle.md
 04/12/2026  02:22 PM             3,352 a-02-adapter-sandbox-execution.md
@@ -550,7 +550,7 @@
 04/12/2026  02:22 PM             2,705 index.md
                5 File(s)         16,715 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\b-truth-fabric
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\b-truth-fabric
 
 04/12/2026  02:22 PM             3,503 b-01-canonical-claim-schema.md
 04/12/2026  02:22 PM             3,037 b-02-identity-anchoring.md
@@ -559,7 +559,7 @@
 04/12/2026  02:22 PM             2,397 index.md
                5 File(s)         16,693 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\c-drift-fabric
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\c-drift-fabric
 
 04/12/2026  02:22 PM             3,703 c-01-drift-detection.md
 04/12/2026  02:22 PM             3,911 c-02-drift-taxonomy.md
@@ -567,7 +567,7 @@
 04/12/2026  02:22 PM             2,180 index.md
                4 File(s)         13,909 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\d-evidence-fabric
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\d-evidence-fabric
 
 04/12/2026  02:22 PM             3,183 d-01-evidence-determinism.md
 04/12/2026  02:22 PM             3,565 d-02-evidence-lifecycle.md
@@ -576,7 +576,7 @@
 04/12/2026  02:22 PM             2,583 index.md
                5 File(s)         17,073 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix\e-governance-plane
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix\e-governance-plane
 
 04/12/2026  02:22 PM             3,270 e-01-arb-coordination.md
 04/12/2026  02:22 PM             3,626 e-02-mission-partner-corridors.md
@@ -584,7 +584,7 @@
 04/12/2026  02:22 PM             1,965 index.md
                4 File(s)         12,777 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\canon
+ Directory of C:\Users\whale\src\uiao-docs\docs\canon
 
 04/12/2026  02:22 PM             5,418 canonical-rules.md
 04/12/2026  02:22 PM             4,582 corpus-status-dashboard.md
@@ -594,12 +594,12 @@
 04/12/2026  02:22 PM             5,043 pdf-layout-spec.md
                6 File(s)         32,802 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\ci
+ Directory of C:\Users\whale\src\uiao-docs\docs\ci
 
 04/12/2026  02:22 PM             1,987 TESTPLAN-metadata-validator.md
                1 File(s)          1,987 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\diagrams
+ Directory of C:\Users\whale\src\uiao-docs\docs\diagrams
 
 04/12/2026  02:22 PM             1,088 adapter-plane.md
 04/12/2026  02:22 PM             1,032 drift-fabric.md
@@ -610,12 +610,12 @@
 04/12/2026  02:22 PM             1,264 truth-fabric.md
                7 File(s)          7,440 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\documents
+ Directory of C:\Users\whale\src\uiao-docs\docs\documents
 
 04/12/2026  02:22 PM               546 index.md
                1 File(s)            546 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\governance
+ Directory of C:\Users\whale\src\uiao-docs\docs\governance
 
 04/12/2026  02:22 PM                 1 audit-protocol.md
 04/12/2026  02:22 PM             2,006 automation-backlog.md
@@ -738,7 +738,7 @@
 04/12/2026  02:22 PM                 1 training-deck-outline.md
              119 File(s)        182,122 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\meta
+ Directory of C:\Users\whale\src\uiao-docs\docs\meta
 
 04/12/2026  02:23 PM             3,210 adr-metadata-contract.md
 04/12/2026  02:23 PM             5,874 governance-metadata-playbook.md
@@ -748,38 +748,38 @@
 04/12/2026  02:23 PM             4,663 uiao-document-metadata-contract.md
                6 File(s)         21,292 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\onboarding
+ Directory of C:\Users\whale\src\uiao-docs\docs\onboarding
 
 04/12/2026  02:23 PM               242 adapter-developer-guide.md
 04/12/2026  02:23 PM                99 index.md
                2 File(s)            341 bytes
 
- Directory of C:\Users\whale\uiao-docs\exports
+ Directory of C:\Users\whale\src\uiao-docs\exports
 
 04/07/2026  01:03 PM               201 README.md
                1 File(s)            201 bytes
 
- Directory of C:\Users\whale\uiao-docs\narrative
+ Directory of C:\Users\whale\src\uiao-docs\narrative
 
 04/12/2026  02:23 PM             6,232 UIAO-Narrative-Layer.md
                1 File(s)          6,232 bytes
 
- Directory of C:\Users\whale\uiao-docs\productization
+ Directory of C:\Users\whale\src\uiao-docs\productization
 
 04/12/2026  02:23 PM             3,230 UIAO-Productization-Layer.md
                1 File(s)          3,230 bytes
 
- Directory of C:\Users\whale\uiao-docs\reports
+ Directory of C:\Users\whale\src\uiao-docs\reports
 
 04/12/2026  02:23 PM             3,622 SCuBA-Canonical-Report.md
                1 File(s)          3,622 bytes
 
- Directory of C:\Users\whale\uiao-docs\runbook
+ Directory of C:\Users\whale\src\uiao-docs\runbook
 
 04/12/2026  02:23 PM             6,144 UIAO-Operational-Runbook.md
                1 File(s)          6,144 bytes
 
- Directory of C:\Users\whale\uiao-docs\security
+ Directory of C:\Users\whale\src\uiao-docs\security
 
 04/12/2026  02:23 PM             6,944 UIAO-Security-Architecture.md
                1 File(s)          6,944 bytes

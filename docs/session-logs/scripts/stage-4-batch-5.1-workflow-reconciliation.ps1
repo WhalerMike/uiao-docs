@@ -303,7 +303,7 @@ jobs:
     Write-Host ''
     Write-OK 'Commit created locally. Review with: git show --stat HEAD'
     Write-Host 'Next step (manual):' -ForegroundColor Yellow
-    Write-Host '  git -C C:\Users\whale\uiao-core push origin main' -ForegroundColor Yellow
+    Write-Host '  git -C C:\Users\whale\src\uiao-core push origin main' -ForegroundColor Yellow
     Write-Host 'Then rerun the Batch 4.3 smoke test to confirm nothing regressed.' -ForegroundColor Yellow
 }
 finally {

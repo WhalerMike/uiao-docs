@@ -16,7 +16,7 @@ Run from a clean working tree in each repo. If `git status` shows untracked chan
 ## Block 1 — `uiao-core` cleanup
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git pull --rebase origin main
 
 # Remove generated/derived directories
@@ -84,7 +84,7 @@ git push
 ## Block 2 — `uiao-docs` cleanup
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git pull --rebase origin main
 
 # Remove generated/derived directories

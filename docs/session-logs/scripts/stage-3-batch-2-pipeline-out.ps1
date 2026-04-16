@@ -4,7 +4,7 @@
 
 $ErrorActionPreference = 'Stop'
 
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 
 Write-Host "--- Pre-flight ---" -ForegroundColor Cyan
 git status

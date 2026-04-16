@@ -40,11 +40,11 @@ Silent = consent to retire.
 ## Pre-flight — confirm repos are in sync
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git status   # expect: nothing to commit, working tree clean
 git pull --rebase origin main
 
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git status   # expect: nothing to commit, working tree clean
 git pull --rebase origin main
 ```
@@ -56,7 +56,7 @@ git pull --rebase origin main
 Moves files that `uiao-docs` Quarto pipeline needs but that currently live in `uiao-core`: PlantUML sources, PNG visuals, SVG assets, and the two root-level branded `.docx` exports.
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 
 # Ensure target directories exist
 New-Item -ItemType Directory -Force -Path 'visuals' | Out-Null
@@ -116,7 +116,7 @@ git push
 Deletes the Jinja2 template pipeline, `_quarto.yml`, the rendered doc tree, build outputs, and retires the six workflows that drove Jinja2 generation.
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 
 # --- Jinja2 pipeline retirement ---
 
@@ -216,7 +216,7 @@ If the stat shows unexpected additions or untouched files, stop and inspect.
 Confirms that `uiao-docs/_quarto.yml` and the publish workflow still resolve after the moves, and adds a minimal README pointing at the new layout.
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 
 # Sanity: Quarto config present?
 if (-not (Test-Path '_quarto.yml')) {
@@ -239,7 +239,7 @@ if (-not (Test-Path '.github/workflows/deploy-docs.yml')) {
 ## Validation post-push
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 Test-Path visuals\authorization_boundary.puml
 Test-Path visuals\uiao-vibrant-20x-governance-hub.png
 Test-Path assets\demo.svg
@@ -247,7 +247,7 @@ Test-Path exports\docx\UIAO_003_Adapter_Segmentation_Overview_v1.0.docx
 Test-Path exports\docx\UIAO_SCuBA_Technical_Specification.docx
 Test-Path exports\pptx\UIAO_Leadership_Briefing_v1.0.pptx
 
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 -not (Test-Path templates)
 -not (Test-Path generation-inputs)
 -not (Test-Path visuals)
@@ -269,7 +269,7 @@ All 20 lines should print `True`.
 ### Smoke test: docs build still succeeds
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 # Kick a manual build run — requires Quarto installed locally.
 # Skip if you don't have Quarto locally; the deploy-docs.yml workflow will catch breakage on next push.
 quarto render --to html

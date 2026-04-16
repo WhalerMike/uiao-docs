@@ -3,16 +3,16 @@
 
 $ErrorActionPreference = 'Stop'
 
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 
 Write-Host "--- Pre-flight ---" -ForegroundColor Cyan
 git status
 git pull --rebase origin main
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git status
 git pull --rebase origin main
 
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 
 Write-Host "--- Creating target directories ---" -ForegroundColor Cyan
 New-Item -ItemType Directory -Force -Path 'visuals' | Out-Null

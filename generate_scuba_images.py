@@ -5,8 +5,8 @@
 # Reads scuba_prompts.json, calls Gemini NanoBanana, saves PNGs to images/.
 #
 # Usage (just run from anywhere):
-#   python C:\Users\whale\uiao-docs\generate_scuba_images.py
-#   python C:\Users\whale\uiao-docs\generate_scuba_images.py --dry-run
+#   python C:\Users\whale\src\uiao-docs\generate_scuba_images.py
+#   python C:\Users\whale\src\uiao-docs\generate_scuba_images.py --dry-run
 
 import argparse
 import json
@@ -19,7 +19,7 @@ from pathlib import Path
 # CONFIGURATION — edit these to match your setup
 # ──────────────────────────────────────────────────────────────
 API_KEY = "AIzaSyCQ-BRx8IuLV23ybUjluLY1WfT6mxS9-jQ"
-SCRIPT_DIR = Path(r"C:\Users\whale\uiao-docs")
+SCRIPT_DIR = Path(r"C:\Users\whale\src\uiao-docs")
 PROMPTS_FILE = SCRIPT_DIR / "scuba_prompts.json"
 OUTPUT_DIR = SCRIPT_DIR / "images"
 MODEL = "gemini-2.5-flash-image"

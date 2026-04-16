@@ -94,7 +94,7 @@ pandoc <file>.md -o <file>.docx
 Commit cadence is the owner's choice. Suggested pattern:
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git add docs/session-logs/
 git commit -m "[UIAO-DOCS] LOG: append <topic> session journal"
 git push

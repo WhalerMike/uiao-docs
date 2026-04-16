@@ -19,11 +19,11 @@ Moves canon content from `uiao-docs` into `uiao-core`. Per the Stage 0 scan: 13 
 ## Pre-flight — confirm repos are in sync
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 git status   # expect: nothing to commit, working tree clean
 git pull --rebase origin main
 
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 git status   # expect: nothing to commit, working tree clean
 git pull --rebase origin main
 ```
@@ -35,7 +35,7 @@ If either `git status` shows uncommitted changes, pause and resolve before proce
 ## Batch 2.1 — add canon to `uiao-core`
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 
 # Create target directory
 New-Item -ItemType Directory -Force -Path 'canon\data' | Out-Null
@@ -81,7 +81,7 @@ git push
 This batch was widened to fold in the CI-stabilization fixes (previously scoped as Stage 5a). Two workflow edits make the moved files' absence a non-event for CI.
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 
 # --- File removals ---
 
@@ -177,13 +177,13 @@ After investigation (see inline check against the actual workflow files), the CI
 ## Validation post-push
 
 ```powershell
-Set-Location 'C:\Users\whale\uiao-core'
+Set-Location 'C:\Users\whale\src\uiao-core'
 # Verify all canon files landed
 Test-Path canon\UIAO-SSOT.md
 Test-Path canon\data\program.yml
 Test-Path schemas\uiao-governance.schema.json
 
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 # Verify all canon files departed
 -not (Test-Path ssot\UIAO-SSOT.md)
 -not (Test-Path schemas\uiao-governance.schema.json)

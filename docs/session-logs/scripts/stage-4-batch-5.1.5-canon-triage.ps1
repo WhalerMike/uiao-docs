@@ -8,7 +8,7 @@
 #   2. Invokes canon_triage.py to group findings by failure pattern and emit
 #      a human-readable markdown report.
 #   3. Writes the triage report to:
-#        C:\Users\whale\uiao-docs\docs\session-logs\reports\canon-backfill-triage.md
+#        C:\Users\whale\src\uiao-docs\docs\session-logs\reports\canon-backfill-triage.md
 #
 # Does NOT modify any canon file, does NOT commit, does NOT push.
 # Safe to run multiple times.
@@ -21,8 +21,8 @@
 # =============================================================================
 
 $ErrorActionPreference = 'Stop'
-$CoreDir    = 'C:\Users\whale\uiao-core'
-$DocsDir    = 'C:\Users\whale\uiao-docs'
+$CoreDir    = 'C:\Users\whale\src\uiao-core'
+$DocsDir    = 'C:\Users\whale\src\uiao-docs'
 $ScriptsDir = Join-Path $DocsDir 'docs\session-logs\scripts'
 $ReportDir  = Join-Path $DocsDir 'docs\session-logs\reports'
 $TriagePy   = Join-Path $ScriptsDir 'canon_triage.py'

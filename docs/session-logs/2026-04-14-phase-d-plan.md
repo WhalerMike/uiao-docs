@@ -59,7 +59,7 @@ There is also significant **root-level clutter** on both sides — dir-tree list
 
 ### Note on `uiao-gos` (third repo, visible in uploaded tree)
 
-Your `UIAO-TreeOut.txt` confirms `uiao-gos` exists at `c:\Users\whale\uiao-gos` with **121 files total**: `ARCHITECTURE.md`, `README.md`, `pyproject.toml`, plus eight directories (`adapters/`, `core/`, `docs/`, `marketplace/`, `scripts/`, `sdk/`, `tenant/`, `.github/`). Most of those directories are empty or near-empty. This is the commercial AD→Entra-ID migration product, firewalled from the federal pair.
+Your `UIAO-TreeOut.txt` confirms `uiao-gos` exists at `c:\Users\whale\src\uiao-gos` with **121 files total**: `ARCHITECTURE.md`, `README.md`, `pyproject.toml`, plus eight directories (`adapters/`, `core/`, `docs/`, `marketplace/`, `scripts/`, `sdk/`, `tenant/`, `.github/`). Most of those directories are empty or near-empty. This is the commercial AD→Entra-ID migration product, firewalled from the federal pair.
 
 Relevant to DECISION POINT A: `uiao-gos` already has `core/` and `sdk/` scaffolding, which means it *could* be re-purposed as the app-code home (A2) — but only if you're willing to mix commercial and federal implementation. My read of your earlier guidance ("commercial, firewalled from federal") says no: `uiao-gos` stays commercial-only, and A2 still means a **new fourth repo** (`uiao-impl` or similar) for the federal reference implementation. I'm flagging this so you can correct me if I've misread the boundary.
 

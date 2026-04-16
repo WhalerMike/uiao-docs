@@ -1,7 +1,7 @@
  Volume in drive C has no label.
  Volume Serial Number is 205D-C010
 
- Directory of C:\Users\whale\uiao-docs
+ Directory of C:\Users\whale\src\uiao-docs
 
 04/03/2026  12:00 PM    <DIR>          .
 04/03/2026  11:56 AM    <DIR>          ..
@@ -12,7 +12,7 @@
 04/03/2026  12:00 PM                 0 uiao-docs_tree.txt
                3 File(s)         21,393 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git
+ Directory of C:\Users\whale\src\uiao-docs\.git
 
 04/03/2026  12:00 PM    <DIR>          ..
 04/03/2026  11:55 AM               302 config
@@ -27,7 +27,7 @@
 04/03/2026  11:55 AM    <DIR>          refs
                5 File(s)         15,091 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\hooks
+ Directory of C:\Users\whale\src\uiao-docs\.git\hooks
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM               478 applypatch-msg.sample
@@ -46,20 +46,20 @@
 04/03/2026  11:55 AM             3,650 update.sample
               14 File(s)         25,827 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\info
+ Directory of C:\Users\whale\src\uiao-docs\.git\info
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM               240 exclude
                1 File(s)            240 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM               214 HEAD
 04/03/2026  11:55 AM    <DIR>          refs
                1 File(s)            214 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -67,41 +67,41 @@
 04/03/2026  11:55 AM    <DIR>          remotes
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\heads
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\heads
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM               214 main
                1 File(s)            214 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM    <DIR>          origin
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\logs\refs\remotes\origin
+ Directory of C:\Users\whale\src\uiao-docs\.git\logs\refs\remotes\origin
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM               214 HEAD
                1 File(s)            214 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          info
 04/03/2026  11:55 AM    <DIR>          pack
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\info
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\info
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\objects\pack
+ Directory of C:\Users\whale\src\uiao-docs\.git\objects\pack
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -110,7 +110,7 @@
 04/03/2026  11:55 AM             7,664 pack-3f27050c2426bf2440bad0293747e5c4163103ee.rev
                3 File(s)     49,074,755 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          heads
@@ -118,34 +118,34 @@
 04/03/2026  11:55 AM    <DIR>          tags
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\heads
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\heads
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM                41 main
                1 File(s)             41 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM    <DIR>          origin
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\remotes\origin
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\remotes\origin
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM                30 HEAD
                1 File(s)             30 bytes
 
- Directory of C:\Users\whale\uiao-docs\.git\refs\tags
+ Directory of C:\Users\whale\src\uiao-docs\.git\refs\tags
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
                0 File(s)              0 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github
+ Directory of C:\Users\whale\src\uiao-docs\.github
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  12:00 PM    <DIR>          ..
@@ -156,7 +156,7 @@
 04/03/2026  11:55 AM    <DIR>          workflows
                3 File(s)          1,834 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github\ISSUE_TEMPLATE
+ Directory of C:\Users\whale\src\uiao-docs\.github\ISSUE_TEMPLATE
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -168,7 +168,7 @@
 04/03/2026  11:55 AM               915 repository-bug-report.yml
                6 File(s)          7,859 bytes
 
- Directory of C:\Users\whale\uiao-docs\.github\workflows
+ Directory of C:\Users\whale\src\uiao-docs\.github\workflows
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -197,7 +197,7 @@
 04/03/2026  11:55 AM             1,866 verify-signatures.yml
               23 File(s)         65,645 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs
+ Directory of C:\Users\whale\src\uiao-docs\docs
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  12:00 PM    <DIR>          ..
@@ -283,7 +283,7 @@
 04/03/2026  11:55 AM             7,980 zero_trust_narrative_v1.0.md
               71 File(s)        602,632 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\adapters
+ Directory of C:\Users\whale\src\uiao-docs\docs\adapters
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -295,7 +295,7 @@
 04/03/2026  11:55 AM            11,319 database-adapters.md
                6 File(s)         52,311 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\adr
+ Directory of C:\Users\whale\src\uiao-docs\docs\adr
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -310,14 +310,14 @@
 04/03/2026  11:55 AM             4,079 0005-dev-repo-promotion-workflow.md
                9 File(s)         31,285 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\appendix
+ Directory of C:\Users\whale\src\uiao-docs\docs\appendix
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM               254 README.md
                1 File(s)            254 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\architecture
+ Directory of C:\Users\whale\src\uiao-docs\docs\architecture
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -325,7 +325,7 @@
 04/03/2026  11:55 AM             1,602 repo-structure.md
                2 File(s)          2,085 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\governance
+ Directory of C:\Users\whale\src\uiao-docs\docs\governance
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -333,7 +333,7 @@
 04/03/2026  11:55 AM             2,332 doc-separation-migration-plan.md
                2 File(s)          5,838 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\images
+ Directory of C:\Users\whale\src\uiao-docs\docs\images
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
@@ -347,21 +347,21 @@
 04/03/2026  11:55 AM         7,042,756 unified_arch.png
                8 File(s)     51,589,100 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\onboarding
+ Directory of C:\Users\whale\src\uiao-docs\docs\onboarding
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM               428 README.md
                1 File(s)            428 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\patterns
+ Directory of C:\Users\whale\src\uiao-docs\docs\patterns
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..
 04/03/2026  11:55 AM               408 README.md
                1 File(s)            408 bytes
 
- Directory of C:\Users\whale\uiao-docs\docs\user-guides
+ Directory of C:\Users\whale\src\uiao-docs\docs\user-guides
 
 04/03/2026  11:55 AM    <DIR>          .
 04/03/2026  11:55 AM    <DIR>          ..

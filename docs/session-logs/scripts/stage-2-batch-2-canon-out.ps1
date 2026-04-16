@@ -3,7 +3,7 @@
 
 $ErrorActionPreference = 'Stop'
 
-Set-Location 'C:\Users\whale\uiao-docs'
+Set-Location 'C:\Users\whale\src\uiao-docs'
 
 Write-Host "--- Pre-flight: uiao-docs ---" -ForegroundColor Cyan
 git status
