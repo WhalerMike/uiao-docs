@@ -257,24 +257,8 @@ website:
               href: docs/governance/technical-spec-template.qmd
         - section: "ADRs & Reviews"
           contents:
-            - text: "ADR 0001 — Package Restructure"
-              href: docs/adr/0001-package-restructure.qmd
-            - text: "ADR 0002 — Testing & SSP Migration"
-              href: docs/adr/0002-testing-and-ssp-migration.qmd
-            - text: "ADR 0003 — Config Hardening"
-              href: docs/adr/0003-config-hardening-dependency-consolidation.qmd
-            - text: "ADR 0004 — Final Migration"
-              href: docs/adr/0004-final-migration-lint-dry-and-pilot-packaging.qmd
-            - text: "ADR 0005 — Dev Repo Promotion"
-              href: docs/adr/0005-dev-repo-promotion-workflow.qmd
-            - text: "Week 1 Critique"
-              href: docs/adr/0001-week1-critique.qmd
-            - text: "Week 2 Critique"
-              href: docs/adr/0002-week2-critique.qmd
-            - text: "Week 3 Critique"
-              href: docs/adr/0003-week3-critique.qmd
-            - text: "Week 4 Critique"
-              href: docs/adr/0004-week4-critique.qmd
+            - text: "ADR Index (moved to uiao-core)"
+              href: docs/adr/index.md
         - section: "Reference"
           contents:
             - text: "Glossary"
